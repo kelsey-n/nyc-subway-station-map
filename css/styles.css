@@ -3,3 +3,11 @@
   height: 500px;
   margin: 0 auto;
 }
+
+.mapboxgl-marker {
+  display: block;
+}
+
+.mapboxgl-marker:hover {
+  cursor: pointer;
+}
