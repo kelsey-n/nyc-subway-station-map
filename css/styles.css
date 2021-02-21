@@ -1,7 +1,61 @@
 #mapcontainer {
-  width: 75%;
-  height: 500px;
+  width: 100%;
+  height: 790px;
   margin: 0 auto;
+  position: auto;
+}
+
+#filter {
+  top: 10px;
+  left: 20px;
+  position: fixed;
+  z-index: 1;
+}
+
+#first-station {
+  float: left;
+}
+
+#second-station {
+  float: left;
+}
+
+.first-button {
+  border-radius: 90%;
+  width: 25px;
+  height: 25px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #E8E8E8;
+  border: none;
+}
+
+.second-button {
+  border-radius: 90%;
+  width: 25px;
+  height: 25px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #E8E8E8;
+  border: none;
+  opacity: 0.6;
+}
+
+.first-button:hover {
+  cursor: pointer;
+  color: black;
+}
+
+.second-button:hover {
+  cursor: arrow;
+}
+
+.first-button:active {
+  background-color: white;
+}
+
+.first-button:focus {
+  background-color: white;
 }
 
 .mapboxgl-marker {
