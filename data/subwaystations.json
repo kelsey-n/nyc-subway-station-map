@@ -6,6 +6,7 @@
     "latitude": 40.730054,
     "line": "4,6,6 Express",
     "line_varname": 466,
+    "all_lines_varname": 466,
     "color": "green",
     "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -16,6 +17,7 @@
     "latitude": 40.718803,
     "line": "4,6,6 Express",
     "line_varname": 466,
+    "all_lines_varname": 466,
     "color": "green",
     "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -26,6 +28,7 @@
     "latitude": 40.761728,
     "line": "1,2",
     "line_varname": 12,
+    "all_lines_varname": 12,
     "color": "red",
     "notes": "1-all times, 2-nights"
   },
@@ -36,6 +39,7 @@
     "latitude": 40.68086214,
     "line": "2,3,4",
     "line_varname": 234,
+    "all_lines_varname": 234,
     "color": "multiple",
     "notes": "4-nights, 3-all other times, 2-all times"
   },
@@ -46,6 +50,7 @@
     "latitude": 40.66471445,
     "line": "3,4",
     "line_varname": 34,
+    "all_lines_varname": 34,
     "color": "multiple",
     "notes": "4-nights, 3-all other times"
   },
@@ -56,6 +61,7 @@
     "latitude": 40.884667,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times, exit only northbound"
   },
@@ -66,6 +72,7 @@
     "latitude": 40.80058156,
     "line": "A,B,C",
     "line_varname": "ABC",
+    "all_lines_varname": "ABC",
     "color": "multiple",
     "notes": "A-nights, B-weekdays and evenings, C-all times exc nights"
   },
@@ -76,6 +83,7 @@
     "latitude": 40.679919,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-nights, C-all other times"
   },
@@ -86,6 +94,7 @@
     "latitude": 40.74971953,
     "line": "E,M,R",
     "line_varname": "EMR",
+    "all_lines_varname": "EMR",
     "color": "multiple",
     "notes": "E-nights, R-all other times, M-weekdays and evenings"
   },
@@ -96,6 +105,7 @@
     "latitude": 40.75196004,
     "line": "E,M,R",
     "line_varname": "EMR",
+    "all_lines_varname": "EMR",
     "color": "multiple",
     "notes": "E-nights, R-all other times, M-weekdays and evenings"
   },
@@ -106,6 +116,7 @@
     "latitude": 40.71830606,
     "line": "J,M,Z",
     "line_varname": "JMZ",
+    "all_lines_varname": "JMZ",
     "color": "multiple",
     "notes": "J-all times, M-all times exc nights, Z-rush hours AM westbound, PM eastbound"
   },
@@ -116,6 +127,7 @@
     "latitude": 40.67802821,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "Z-rush hours AM westbound, PM eastbound, J-all other times"
   },
@@ -126,6 +138,7 @@
     "latitude": 40.68152,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "Z-rush hours AM westbound, PM eastbound, J-all other times"
   },
@@ -136,6 +149,7 @@
     "latitude": 40.695166,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "Z-rush hours AM westbound, PM eastbound, J-all other times"
   },
@@ -146,6 +160,7 @@
     "latitude": 40.69064812,
     "line": "B,D,N,Q,R",
     "line_varname": "BDNQR",
+    "all_lines_varname": "BDNQR",
     "color": "multiple",
     "notes": "B-weekdays and evenings, D-all other times, N-nights, R-all other times, Q-all times"
   },
@@ -156,6 +171,7 @@
     "latitude": 40.58326844,
     "line": "A,S",
     "line_varname": "AS",
+    "all_lines_varname": "AS",
     "color": "multiple",
     "notes": "A-rush hours AM northbound, PM southbound, S Broad Channel to Rockaway Park-all times"
   },
@@ -166,6 +182,7 @@
     "latitude": 40.58809156,
     "line": "A,S",
     "line_varname": "AS",
+    "all_lines_varname": "AS",
     "color": "multiple",
     "notes": "A-rush hours AM northbound, PM southbound, S Broad Channel to Rockaway Park-all times"
   },
@@ -176,6 +193,7 @@
     "latitude": 40.82998745,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound"
   },
@@ -186,6 +204,7 @@
     "latitude": 40.82214213,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound"
   },
@@ -196,6 +215,7 @@
     "latitude": 40.856093,
     "line": "B,D",
     "line_varname": "BD",
+    "all_lines_varname": "BD",
     "color": "orange",
     "notes": "B-rush hours, D-all times, skips rush hours AM southbound, PM northbound"
   },
@@ -206,6 +226,7 @@
     "latitude": 40.8459,
     "line": "B,D",
     "line_varname": "BD",
+    "all_lines_varname": "BD",
     "color": "orange",
     "notes": "B-rush hours, D-all times, skips rush hours AM southbound, PM northbound"
   },
@@ -216,6 +237,7 @@
     "latitude": 40.833769,
     "line": "B,D",
     "line_varname": "BD",
+    "all_lines_varname": "BD",
     "color": "orange",
     "notes": "B-rush hours, D-all times, skips rush hours AM southbound, PM northbound"
   },
@@ -226,6 +248,7 @@
     "latitude": 40.754622,
     "line": "7,7 Express",
     "line_varname": 77,
+    "all_lines_varname": 77,
     "color": "purple",
     "notes": "7-all times, 7 Express-rush hours AM westbound, PM eastbound"
   },
@@ -236,6 +259,7 @@
     "latitude": 40.749145,
     "line": "7,7 Express",
     "line_varname": 77,
+    "all_lines_varname": 77,
     "color": "purple",
     "notes": "7-all times, 7 Express-rush hours AM westbound, PM eastbound"
   },
@@ -246,6 +270,7 @@
     "latitude": 40.7596,
     "line": "7,7 Express",
     "line_varname": 77,
+    "all_lines_varname": 77,
     "color": "purple",
     "notes": "7-all times, 7 Express-rush hours AM westbound, PM eastbound"
   },
@@ -256,6 +281,7 @@
     "latitude": 40.84681,
     "line": "6,6 Express",
     "line_varname": 66,
+    "all_lines_varname": 66,
     "color": "green",
     "notes": "6 Express-weekdays AM southbound, PM northbound, 6-all other times"
   },
@@ -266,6 +292,7 @@
     "latitude": 40.810476,
     "line": "6,6 Express",
     "line_varname": 66,
+    "all_lines_varname": 66,
     "color": "green",
     "notes": "6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -276,6 +303,7 @@
     "latitude": 40.834255,
     "line": "6,6 Express",
     "line_varname": 66,
+    "all_lines_varname": 66,
     "color": "green",
     "notes": "6 Express-weekdays AM southbound, PM northbound, 6-all other times"
   },
@@ -286,6 +314,7 @@
     "latitude": 40.713065,
     "line": "4,5,6,6 Express",
     "line_varname": 4566,
+    "all_lines_varname": 4566,
     "color": "green",
     "notes": "4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -296,6 +325,7 @@
     "latitude": 40.836488,
     "line": "6,6 Express",
     "line_varname": 66,
+    "all_lines_varname": 66,
     "color": "green",
     "notes": "6 Express-weekdays AM southbound, PM northbound, 6-all other times"
   },
@@ -306,6 +336,7 @@
     "latitude": 40.75180743,
     "line": "4,5,6,6 Express",
     "line_varname": 4566,
+    "all_lines_varname": 4566,
     "color": "green",
     "notes": "4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -316,6 +347,7 @@
     "latitude": 40.746081,
     "line": "4,6,6 Express",
     "line_varname": 466,
+    "all_lines_varname": 466,
     "color": "green",
     "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -326,6 +358,7 @@
     "latitude": 40.785672,
     "line": "4,6,6 Express",
     "line_varname": 466,
+    "all_lines_varname": 466,
     "color": "green",
     "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -336,6 +369,7 @@
     "latitude": 40.77362,
     "line": "4,6,6 Express",
     "line_varname": 466,
+    "all_lines_varname": 466,
     "color": "green",
     "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -346,6 +380,7 @@
     "latitude": 40.6828513,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "Z-rush hours AM westbound, PM eastbound, J-all other times"
   },
@@ -356,6 +391,7 @@
     "latitude": 40.67731567,
     "line": "D,N,R",
     "line_varname": "DNR",
+    "all_lines_varname": "DNR",
     "color": "multiple",
     "notes": "D,N-nights, R-all other times"
   },
@@ -366,6 +402,7 @@
     "latitude": 40.74237008,
     "line": "E,M,R",
     "line_varname": "EMR",
+    "all_lines_varname": "EMR",
     "color": "multiple",
     "notes": "E-nights, R-all other times, M-weekdays and evenings"
   },
@@ -376,6 +413,7 @@
     "latitude": 40.678822,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-nights, C-all other times"
   },
@@ -386,6 +424,7 @@
     "latitude": 40.85719241,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-rush hours AM southbound, PM northbound"
   },
@@ -396,6 +435,7 @@
     "latitude": 40.87783939,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-rush hours AM southbound, PM northbound"
   },
@@ -406,6 +446,7 @@
     "latitude": 40.89828652,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-rush hours AM southbound, PM northbound"
   },
@@ -416,6 +457,7 @@
     "latitude": 40.67076515,
     "line": "2,3,4,5",
     "line_varname": 2345,
+    "all_lines_varname": 2345,
     "color": "multiple",
     "notes": "2,4-all times, 3-all times exc nights, 5-weekdays"
   },
@@ -426,6 +468,7 @@
     "latitude": 40.82397684,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound"
   },
@@ -436,6 +479,7 @@
     "latitude": 40.84876867,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-rush hours AM southbound, PM northbound"
   },
@@ -446,6 +490,7 @@
     "latitude": 40.65665931,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-weekdays"
   },
@@ -456,6 +501,7 @@
     "latitude": 40.66551796,
     "line": "3,4",
     "line_varname": 34,
+    "all_lines_varname": 34,
     "color": "multiple",
     "notes": "4-nights, 3-all other times"
   },
@@ -466,6 +512,7 @@
     "latitude": 40.81830344,
     "line": 4,
     "line_varname": 4,
+    "all_lines_varname": 4,
     "color": "green",
     "notes": "4-all times"
   },
@@ -476,6 +523,7 @@
     "latitude": 40.82823033,
     "line": 4,
     "line_varname": 4,
+    "all_lines_varname": 4,
     "color": "green",
     "notes": "4-all times"
   },
@@ -486,6 +534,7 @@
     "latitude": 40.762526,
     "line": "4,5,6,6 Express",
     "line_varname": 4566,
+    "all_lines_varname": 4566,
     "color": "green",
     "notes": "4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -496,6 +545,7 @@
     "latitude": 40.812118,
     "line": 6,
     "line_varname": 6,
+    "all_lines_varname": 6,
     "color": "green",
     "notes": "6-all times"
   },
@@ -506,6 +556,7 @@
     "latitude": 40.829521,
     "line": 6,
     "line_varname": 6,
+    "all_lines_varname": 6,
     "color": "green",
     "notes": "6-all times"
   },
@@ -516,6 +567,7 @@
     "latitude": 40.826525,
     "line": 6,
     "line_varname": 6,
+    "all_lines_varname": 6,
     "color": "green",
     "notes": "6-all times"
   },
@@ -526,6 +578,7 @@
     "latitude": 40.831509,
     "line": 6,
     "line_varname": 6,
+    "all_lines_varname": 6,
     "color": "green",
     "notes": "6-all times"
   },
@@ -536,6 +589,7 @@
     "latitude": 40.74563,
     "line": "7,7 Express",
     "line_varname": 77,
+    "all_lines_varname": 77,
     "color": "purple",
     "notes": "7-all times, 7 Express-rush hours AM westbound, PM eastbound"
   },
@@ -546,6 +600,7 @@
     "latitude": 40.603995,
     "line": "A",
     "line_varname": "A",
+    "all_lines_varname": "A",
     "color": "blue",
     "notes": "A-all times"
   },
@@ -556,6 +611,7 @@
     "latitude": 40.7755194,
     "line": "A,B,C",
     "line_varname": "ABC",
+    "all_lines_varname": "ABC",
     "color": "multiple",
     "notes": "A-nights, B-weekdays and evenings, C-all times exc nights"
   },
@@ -566,6 +622,7 @@
     "latitude": 40.7916188,
     "line": "A,B,C",
     "line_varname": "ABC",
+    "all_lines_varname": "ABC",
     "color": "multiple",
     "notes": "A-nights, B-weekdays and evenings, C-all times exc nights"
   },
@@ -576,6 +633,7 @@
     "latitude": 40.840719,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-all times, C-all times exc nights"
   },
@@ -586,6 +644,7 @@
     "latitude": 40.866978,
     "line": "B,D",
     "line_varname": "BD",
+    "all_lines_varname": "BD",
     "color": "orange",
     "notes": "B-rush hours, D-all times"
   },
@@ -596,6 +655,7 @@
     "latitude": 40.754184,
     "line": "B,D,F,M",
     "line_varname": "BDFM",
+    "all_lines_varname": "BDFM",
     "color": "orange",
     "notes": "B,M-weekdays and evenings, D,F-all times"
   },
@@ -606,6 +666,7 @@
     "latitude": 40.66163346,
     "line": "B,Q,S",
     "line_varname": "BQS",
+    "all_lines_varname": "BQS",
     "color": "multiple",
     "notes": "B-weekdays and evenings, Q,S to Franklin Av-Fulton St-all times"
   },
@@ -616,6 +677,7 @@
     "latitude": 40.63147876,
     "line": "D",
     "line_varname": "D",
+    "all_lines_varname": "D",
     "color": "orange",
     "notes": "D-all times"
   },
@@ -626,6 +688,7 @@
     "latitude": 40.70289855,
     "line": "E",
     "line_varname": "E",
+    "all_lines_varname": "E",
     "color": "blue",
     "notes": "E-all times"
   },
@@ -636,6 +699,7 @@
     "latitude": 40.71403482,
     "line": "E,F",
     "line_varname": "EF",
+    "all_lines_varname": "EF",
     "color": "multiple",
     "notes": "E,F-all times"
   },
@@ -646,6 +710,7 @@
     "latitude": 40.70038242,
     "line": "E,J,Z",
     "line_varname": "EJZ",
+    "all_lines_varname": "EJZ",
     "color": "multiple",
     "notes": "E,J-all times, Z-rush hours AM westbound, PM eastbound"
   },
@@ -656,6 +721,7 @@
     "latitude": 40.74776812,
     "line": "E,M",
     "line_varname": "EM",
+    "all_lines_varname": "EM",
     "color": "multiple",
     "notes": "E-all times, M-weekdays and evenings"
   },
@@ -666,6 +732,7 @@
     "latitude": 40.72650548,
     "line": "E,M,R",
     "line_varname": "EMR",
+    "all_lines_varname": "EMR",
     "color": "multiple",
     "notes": "E-nights, R-all other times, M-weekdays and evenings"
   },
@@ -676,6 +743,7 @@
     "latitude": 40.73681342,
     "line": "E,M,R",
     "line_varname": "EMR",
+    "all_lines_varname": "EMR",
     "color": "multiple",
     "notes": "E-nights, R-all other times, M-weekdays and evenings"
   },
@@ -686,6 +754,7 @@
     "latitude": 40.63611867,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -696,6 +765,7 @@
     "latitude": 40.688889,
     "line": "G",
     "line_varname": "G",
+    "all_lines_varname": "G",
     "color": "lightgreen",
     "notes": "G-all times"
   },
@@ -706,6 +776,7 @@
     "latitude": 40.70612658,
     "line": "G",
     "line_varname": "G",
+    "all_lines_varname": "G",
     "color": "lightgreen",
     "notes": "G-all times"
   },
@@ -716,6 +787,7 @@
     "latitude": 40.714072,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -726,6 +798,7 @@
     "latitude": 40.669145,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -736,6 +809,7 @@
     "latitude": 40.68886654,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -746,6 +820,7 @@
     "latitude": 40.68641527,
     "line": "J",
     "line_varname": "J",
+    "all_lines_varname": "J",
     "color": "brown",
     "notes": "J-all times"
   },
@@ -756,6 +831,7 @@
     "latitude": 40.703844,
     "line": "J,M",
     "line_varname": "JM",
+    "all_lines_varname": "JM",
     "color": "multiple",
     "notes": "J-all times, skips weekdays AM westbound, PM eastbound, M-all times exc nights"
   },
@@ -766,6 +842,7 @@
     "latitude": 40.634971,
     "line": "N",
     "line_varname": "N",
+    "all_lines_varname": "N",
     "color": "yellow",
     "notes": "N-all times"
   },
@@ -776,6 +853,7 @@
     "latitude": 40.756442,
     "line": "N,W",
     "line_varname": "NW",
+    "all_lines_varname": "NW",
     "color": "yellow",
     "notes": "N-all times, W part time"
   },
@@ -786,6 +864,7 @@
     "latitude": 40.761432,
     "line": "N,W",
     "line_varname": "NW",
+    "all_lines_varname": "NW",
     "color": "yellow",
     "notes": "N-all times, W part time"
   },
@@ -796,6 +875,7 @@
     "latitude": 40.754612,
     "line": "N,Q,R,W",
     "line_varname": "NQRW",
+    "all_lines_varname": "1237NQRWS",
     "color": "yellow",
     "notes": "N,Q-all times, R-all times exc nights, W part time"
   },
@@ -806,6 +886,7 @@
     "latitude": 40.75276867,
     "line": "S",
     "line_varname": "S",
+    "all_lines_varname": "S",
     "color": "shuttlegray",
     "notes": "S to Times Sq-all times exc nights, closed nights-use 7"
   },
@@ -816,6 +897,7 @@
     "latitude": 40.67477167,
     "line": "S",
     "line_varname": "S",
+    "all_lines_varname": "S",
     "color": "shuttlegray",
     "notes": "S Franklin Av-Fulton St to Prospect Park-all times"
   },
@@ -826,6 +908,7 @@
     "latitude": 40.684331,
     "line": "A,S",
     "line_varname": "AS",
+    "all_lines_varname": "AS",
     "color": "multiple",
     "notes": "S Euclid Av to Ozone Park-Lefferts Blvd-nights, A-all other times"
   },
@@ -836,6 +919,7 @@
     "latitude": 40.73225449,
     "line": "B,D,F,M",
     "line_varname": "BDFM",
+    "all_lines_varname": "BDFM",
     "color": "orange",
     "notes": "B,M-weekdays and evenings, D,F-all times"
   },
@@ -846,6 +930,7 @@
     "latitude": 40.757107,
     "line": "4,6,6 Express",
     "line_varname": 466,
+    "all_lines_varname": 466,
     "color": "green",
     "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -856,6 +941,7 @@
     "latitude": 40.788644,
     "line": "1,2",
     "line_varname": 12,
+    "all_lines_varname": 12,
     "color": "red",
     "notes": "1-all times, 2-nights"
   },
@@ -866,6 +952,7 @@
     "latitude": 40.89314324,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-rush hours AM southbound, PM northbound"
   },
@@ -876,6 +963,7 @@
     "latitude": 40.77344,
     "line": "1,2",
     "line_varname": 12,
+    "all_lines_varname": 12,
     "color": "red",
     "notes": "1-all times, 2-nights"
   },
@@ -886,6 +974,7 @@
     "latitude": 40.820948,
     "line": "6,6 Express",
     "line_varname": 66,
+    "all_lines_varname": 66,
     "color": "green",
     "notes": "6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -896,6 +985,7 @@
     "latitude": 40.722854,
     "line": "1,2",
     "line_varname": 12,
+    "all_lines_varname": 12,
     "color": "red",
     "notes": "1-all times, 2-nights"
   },
@@ -906,6 +996,7 @@
     "latitude": 40.843863,
     "line": "6,6 Express",
     "line_varname": 66,
+    "all_lines_varname": 66,
     "color": "green",
     "notes": "6 Express-weekdays AM southbound, PM northbound, 6-all other times"
   },
@@ -916,6 +1007,7 @@
     "latitude": 40.739864,
     "line": "4,6,6 Express",
     "line_varname": 466,
+    "all_lines_varname": 466,
     "color": "green",
     "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -926,6 +1018,7 @@
     "latitude": 40.747023,
     "line": "7,7 Express",
     "line_varname": 77,
+    "all_lines_varname": 77,
     "color": "purple",
     "notes": "7-all times, 7 Express-rush hours AM westbound, PM eastbound"
   },
@@ -936,6 +1029,7 @@
     "latitude": 40.768247,
     "line": "1,2",
     "line_varname": 12,
+    "all_lines_varname": 12,
     "color": "red",
     "notes": "1-all times, 2-nights"
   },
@@ -946,6 +1040,7 @@
     "latitude": 40.742216,
     "line": "7,7 Express",
     "line_varname": 77,
+    "all_lines_varname": 77,
     "color": "purple",
     "notes": "7-all times, 7 Express-rush hours AM westbound, PM eastbound"
   },
@@ -956,6 +1051,7 @@
     "latitude": 40.744081,
     "line": "1,2",
     "line_varname": 12,
+    "all_lines_varname": 12,
     "color": "red",
     "notes": "1-all times, 2-nights"
   },
@@ -966,6 +1062,7 @@
     "latitude": 40.728251,
     "line": "1,2",
     "line_varname": 12,
+    "all_lines_varname": 12,
     "color": "red",
     "notes": "1-all times, 2-nights"
   },
@@ -976,6 +1073,7 @@
     "latitude": 40.681711,
     "line": "A,S",
     "line_varname": "AS",
+    "all_lines_varname": "AS",
     "color": "multiple",
     "notes": "S Euclid Av to Ozone Park-Lefferts Blvd-nights, A-all other times"
   },
@@ -986,6 +1084,7 @@
     "latitude": 40.60840218,
     "line": "A,S",
     "line_varname": "AS",
+    "all_lines_varname": "AS",
     "color": "multiple",
     "notes": "A,S to Rockaway Park-all times"
   },
@@ -996,6 +1095,7 @@
     "latitude": 40.57631167,
     "line": "Q",
     "line_varname": "Q",
+    "all_lines_varname": "Q",
     "color": "yellow",
     "notes": "Q-all times"
   },
@@ -1006,6 +1106,7 @@
     "latitude": 40.742626,
     "line": "7,7 Express",
     "line_varname": 77,
+    "all_lines_varname": 77,
     "color": "purple",
     "notes": "7-all times, 7 Express-rush hours AM westbound, PM eastbound"
   },
@@ -1016,6 +1117,7 @@
     "latitude": 40.768141,
     "line": "4,6,6 Express",
     "line_varname": 466,
+    "all_lines_varname": 466,
     "color": "green",
     "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -1026,6 +1128,7 @@
     "latitude": 40.75063565,
     "line": "7,7 Express,N,W",
     "line_varname": "77NW",
+    "all_lines_varname": "77NW",
     "color": "multiple",
     "notes": "7,N-all times, 7 Express-rush hours AM westbound, PM eastbound, W part time"
   },
@@ -1036,6 +1139,7 @@
     "latitude": 40.680429,
     "line": "A,S",
     "line_varname": "AS",
+    "all_lines_varname": "AS",
     "color": "multiple",
     "notes": "A-all times, S Euclid Av to Ozone Park-Lefferts Blvd-nights"
   },
@@ -1046,6 +1150,7 @@
     "latitude": 40.734673,
     "line": "4,5,6,6 Express",
     "line_varname": 4566,
+    "all_lines_varname": 4566,
     "color": "green",
     "notes": "4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -1056,6 +1161,7 @@
     "latitude": 40.689627,
     "line": "G",
     "line_varname": "G",
+    "all_lines_varname": "G",
     "color": "lightgreen",
     "notes": "G-all times"
   },
@@ -1066,6 +1172,7 @@
     "latitude": 40.66003569,
     "line": "F,G",
     "line_varname": "FG",
+    "all_lines_varname": "FG",
     "color": "multiple",
     "notes": "F,G-all times"
   },
@@ -1076,6 +1183,7 @@
     "latitude": 40.66624469,
     "line": "F,G",
     "line_varname": "FG",
+    "all_lines_varname": "FG",
     "color": "multiple",
     "notes": "F,G-all times"
   },
@@ -1086,6 +1194,7 @@
     "latitude": 40.65078167,
     "line": "F,G",
     "line_varname": "FG",
+    "all_lines_varname": "FG",
     "color": "multiple",
     "notes": "F,G-all times"
   },
@@ -1096,6 +1205,7 @@
     "latitude": 40.644272,
     "line": "F,G",
     "line_varname": "FG",
+    "all_lines_varname": "FG",
     "color": "multiple",
     "notes": "F,G-all times"
   },
@@ -1106,6 +1216,7 @@
     "latitude": 40.6439046,
     "line": "Q",
     "line_varname": "Q",
+    "all_lines_varname": "Q",
     "color": "yellow",
     "notes": "Q-all times"
   },
@@ -1116,6 +1227,7 @@
     "latitude": 40.65049325,
     "line": "B,Q",
     "line_varname": "BQ",
+    "all_lines_varname": "BQ",
     "color": "multiple",
     "notes": "B-weekdays and evenings, Q-all times"
   },
@@ -1126,6 +1238,7 @@
     "latitude": 40.63514194,
     "line": "B,Q",
     "line_varname": "BQ",
+    "all_lines_varname": "BQ",
     "color": "multiple",
     "notes": "B-weekdays and evenings, Q-all times"
   },
@@ -1136,6 +1249,7 @@
     "latitude": 40.65507304,
     "line": "Q",
     "line_varname": "Q",
+    "all_lines_varname": "Q",
     "color": "yellow",
     "notes": "Q-all times"
   },
@@ -1146,6 +1260,7 @@
     "latitude": 40.6752947,
     "line": "2,3,4",
     "line_varname": 234,
+    "all_lines_varname": 234,
     "color": "multiple",
     "notes": "4-nights, 3-all other times, 2-all times"
   },
@@ -1156,6 +1271,7 @@
     "latitude": 40.68442017,
     "line": "2,3,4,5",
     "line_varname": 2345,
+    "all_lines_varname": 2345,
     "color": "multiple",
     "notes": "2,4-all times, 3-all times exc nights, 5-weekdays"
   },
@@ -1166,6 +1282,7 @@
     "latitude": 40.67834,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-nights, C-all other times"
   },
@@ -1176,6 +1293,7 @@
     "latitude": 40.687119,
     "line": "G",
     "line_varname": "G",
+    "all_lines_varname": "G",
     "color": "lightgreen",
     "notes": "G-all times"
   },
@@ -1186,6 +1304,7 @@
     "latitude": 40.688094,
     "line": "G",
     "line_varname": "G",
+    "all_lines_varname": "G",
     "color": "lightgreen",
     "notes": "G-all times"
   },
@@ -1196,6 +1315,7 @@
     "latitude": 40.67710218,
     "line": "B,Q",
     "line_varname": "BQ",
+    "all_lines_varname": "BQ",
     "color": "multiple",
     "notes": "B-weekdays and evenings, Q-all times"
   },
@@ -1206,6 +1326,7 @@
     "latitude": 40.68448832,
     "line": "B,Q",
     "line_varname": "BQ",
+    "all_lines_varname": "BQ",
     "color": "multiple",
     "notes": "B-weekdays and evenings, Q-all times"
   },
@@ -1216,6 +1337,7 @@
     "latitude": 40.68366567,
     "line": "D,N,Q,R",
     "line_varname": "DNQR",
+    "all_lines_varname": "DNQR",
     "color": "multiple",
     "notes": "D,N-all times, R-all times exc nights"
   },
@@ -1226,6 +1348,7 @@
     "latitude": 40.692404,
     "line": "4,5",
     "line_varname": 45,
+    "all_lines_varname": 45,
     "color": "green",
     "notes": "4-all times, 5-weekdays"
   },
@@ -1236,6 +1359,7 @@
     "latitude": 40.672097,
     "line": "A",
     "line_varname": "A",
+    "all_lines_varname": "A",
     "color": "blue",
     "notes": "A-to Manhattan only, racing days only"
   },
@@ -1246,6 +1370,7 @@
     "latitude": 40.854364,
     "line": 5,
     "line_varname": 5,
+    "all_lines_varname": 5,
     "color": "green",
     "notes": "5-all times"
   },
@@ -1256,6 +1381,7 @@
     "latitude": 40.858985,
     "line": 5,
     "line_varname": 5,
+    "all_lines_varname": 5,
     "color": "green",
     "notes": "5-all times"
   },
@@ -1266,6 +1392,7 @@
     "latitude": 40.680438,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-all times, C-all times exc nights"
   },
@@ -1276,6 +1403,7 @@
     "latitude": 40.68831058,
     "line": "2,3,4,5",
     "line_varname": 2345,
+    "all_lines_varname": 2345,
     "color": "multiple",
     "notes": "2,4-all times, 3-all times exc nights, 5-weekdays"
   },
@@ -1286,6 +1414,7 @@
     "latitude": 40.67203224,
     "line": "2,3,4",
     "line_varname": 234,
+    "all_lines_varname": 234,
     "color": "multiple",
     "notes": "4-nights, 3-all other times, 2-all times"
   },
@@ -1296,6 +1425,7 @@
     "latitude": 40.64512352,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-weekdays"
   },
@@ -1306,6 +1436,7 @@
     "latitude": 40.65086069,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-weekdays"
   },
@@ -1316,6 +1447,7 @@
     "latitude": 40.63999124,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-weekdays"
   },
@@ -1326,6 +1458,7 @@
     "latitude": 40.63284241,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-weekdays"
   },
@@ -1336,6 +1469,7 @@
     "latitude": 40.66277299,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-weekdays"
   },
@@ -1346,6 +1480,7 @@
     "latitude": 40.66897831,
     "line": "3,4",
     "line_varname": 34,
+    "all_lines_varname": 34,
     "color": "multiple",
     "notes": "3-all times exc nights, 4-all times"
   },
@@ -1356,6 +1491,7 @@
     "latitude": 40.66948145,
     "line": "3,4",
     "line_varname": 34,
+    "all_lines_varname": 34,
     "color": "multiple",
     "notes": "4-nights, 3-all other times"
   },
@@ -1366,6 +1502,7 @@
     "latitude": 40.72448,
     "line": "G",
     "line_varname": "G",
+    "all_lines_varname": "G",
     "color": "lightgreen",
     "notes": "G-all times"
   },
@@ -1376,6 +1513,7 @@
     "latitude": 40.731267,
     "line": "G",
     "line_varname": "G",
+    "all_lines_varname": "G",
     "color": "lightgreen",
     "notes": "G-all times"
   },
@@ -1386,6 +1524,7 @@
     "latitude": 40.708383,
     "line": "J,M,Z",
     "line_varname": "JMZ",
+    "all_lines_varname": "JMZ",
     "color": "multiple",
     "notes": "J-all times, M-all times exc nights, Z-rush hours AM westbound, PM eastbound"
   },
@@ -1396,6 +1535,7 @@
     "latitude": 40.70689,
     "line": "J,M",
     "line_varname": "JM",
+    "all_lines_varname": "JM",
     "color": "multiple",
     "notes": "J-all times, skips weekdays AM westbound, PM eastbound, M-all times exc nights"
   },
@@ -1406,6 +1546,7 @@
     "latitude": 40.813224,
     "line": "4,5",
     "line_varname": 45,
+    "all_lines_varname": 45,
     "color": "green",
     "notes": "4-all times, skips rush hours AM southbound, PM northbound, 5-all times exc nights"
   },
@@ -1416,6 +1557,7 @@
     "latitude": 40.76008683,
     "line": "E,M",
     "line_varname": "EM",
+    "all_lines_varname": "EM",
     "color": "multiple",
     "notes": "E-all times, M-weekdays and evenings"
   },
@@ -1426,6 +1568,7 @@
     "latitude": 40.75746831,
     "line": "E,M",
     "line_varname": "EM",
+    "all_lines_varname": "EM",
     "color": "multiple",
     "notes": "E-all times, M-weekdays and evenings"
   },
@@ -1436,6 +1579,7 @@
     "latitude": 40.745454,
     "line": "N,Q,R,W",
     "line_varname": "NQRW",
+    "all_lines_varname": "NQRW",
     "color": "yellow",
     "notes": "N-all times, R-all times exc nights, part time"
   },
@@ -1446,6 +1590,7 @@
     "latitude": 40.74964456,
     "line": "N,Q,R,W",
     "line_varname": "NQRW",
+    "all_lines_varname": "NQRW",
     "color": "yellow",
     "notes": "N,Q-all times, R-all times exc nights"
   },
@@ -1456,6 +1601,7 @@
     "latitude": 40.73097498,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -1466,6 +1612,7 @@
     "latitude": 40.755983,
     "line": "S",
     "line_varname": "S",
+    "all_lines_varname": "1237NQRWS",
     "color": "shuttlegray",
     "notes": "S to Grand Central-all times exc nights, closed nights-use 7"
   },
@@ -1476,6 +1623,7 @@
     "latitude": 40.712774,
     "line": "G",
     "line_varname": "G",
+    "all_lines_varname": "G",
     "color": "lightgreen",
     "notes": "G-all times"
   },
@@ -1486,6 +1634,7 @@
     "latitude": 40.711576,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -1496,6 +1645,7 @@
     "latitude": 40.714576,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -1506,6 +1656,7 @@
     "latitude": 40.717174,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -1516,6 +1667,7 @@
     "latitude": 40.70739106,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -1526,6 +1678,7 @@
     "latitude": 40.74630503,
     "line": "G",
     "line_varname": "G",
+    "all_lines_varname": "G",
     "color": "lightgreen",
     "notes": "G-all times"
   },
@@ -1536,6 +1689,7 @@
     "latitude": 40.74412867,
     "line": "G",
     "line_varname": "G",
+    "all_lines_varname": "G",
     "color": "lightgreen",
     "notes": "G-all times"
   },
@@ -1546,6 +1700,7 @@
     "latitude": 40.75276306,
     "line": "N,W",
     "line_varname": "NW",
+    "all_lines_varname": "NW",
     "color": "yellow",
     "notes": "N-all times, W part time"
   },
@@ -1556,6 +1711,7 @@
     "latitude": 40.826551,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -1566,6 +1722,7 @@
     "latitude": 40.834041,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -1576,6 +1733,7 @@
     "latitude": 40.793919,
     "line": "1,2,3",
     "line_varname": 123,
+    "all_lines_varname": 123,
     "color": "red",
     "notes": "1,2,3-all times"
   },
@@ -1586,6 +1744,7 @@
     "latitude": 40.799446,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -1596,6 +1755,7 @@
     "latitude": 40.799075,
     "line": "2,3",
     "line_varname": 23,
+    "all_lines_varname": 23,
     "color": "red",
     "notes": "2,3-all times"
   },
@@ -1606,6 +1766,7 @@
     "latitude": 40.79606074,
     "line": "A,B,C",
     "line_varname": "ABC",
+    "all_lines_varname": "ABC",
     "color": "multiple",
     "notes": "A-nights, B-weekdays and evenings, C-all times exc nights"
   },
@@ -1616,6 +1777,7 @@
     "latitude": 40.778453,
     "line": "1,2,3",
     "line_varname": 123,
+    "all_lines_varname": 123,
     "color": "red",
     "notes": "1,2,3-all times"
   },
@@ -1626,6 +1788,7 @@
     "latitude": 40.78134608,
     "line": "A,B,C",
     "line_varname": "ABC",
+    "all_lines_varname": "ABC",
     "color": "multiple",
     "notes": "A-nights, B-weekdays and evenings, C-all times exc nights"
   },
@@ -1636,6 +1799,7 @@
     "latitude": 40.71804465,
     "line": "E,F",
     "line_varname": "EF",
+    "all_lines_varname": "EF",
     "color": "multiple",
     "notes": "E-evenings, weekends, nights, F-all times"
   },
@@ -1646,6 +1810,7 @@
     "latitude": 40.78582305,
     "line": "A,B,C",
     "line_varname": "ABC",
+    "all_lines_varname": "ABC",
     "color": "multiple",
     "notes": "A-nights, B-weekdays and evenings, C-all times exc nights"
   },
@@ -1656,6 +1821,7 @@
     "latitude": 40.803967,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -1666,6 +1832,7 @@
     "latitude": 40.807722,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -1676,6 +1843,7 @@
     "latitude": 40.807754,
     "line": "2,3",
     "line_varname": 23,
+    "all_lines_varname": 23,
     "color": "red",
     "notes": "2,3-all times"
   },
@@ -1686,6 +1854,7 @@
     "latitude": 40.814229,
     "line": "2,3",
     "line_varname": 23,
+    "all_lines_varname": 23,
     "color": "red",
     "notes": "2,3-all times"
   },
@@ -1696,6 +1865,7 @@
     "latitude": 40.802098,
     "line": "2,3",
     "line_varname": 23,
+    "all_lines_varname": 23,
     "color": "red",
     "notes": "2,3-all times"
   },
@@ -1706,6 +1876,7 @@
     "latitude": 40.85041,
     "line": "B,D",
     "line_varname": "BD",
+    "all_lines_varname": "BD",
     "color": "orange",
     "notes": "B-rush hours, D-all times"
   },
@@ -1716,6 +1887,7 @@
     "latitude": 40.822008,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -1726,6 +1898,7 @@
     "latitude": 40.820421,
     "line": 3,
     "line_varname": 3,
+    "all_lines_varname": 3,
     "color": "red",
     "notes": "3-all times, exit only northbound"
   },
@@ -1736,6 +1909,7 @@
     "latitude": 40.84848,
     "line": 4,
     "line_varname": 4,
+    "all_lines_varname": 4,
     "color": "green",
     "notes": "4-all times"
   },
@@ -1746,6 +1920,7 @@
     "latitude": 40.853453,
     "line": 4,
     "line_varname": 4,
+    "all_lines_varname": 4,
     "color": "green",
     "notes": "4-all times"
   },
@@ -1756,6 +1931,7 @@
     "latitude": 40.839306,
     "line": "B,D",
     "line_varname": "BD",
+    "all_lines_varname": "BD",
     "color": "orange",
     "notes": "B-rush hours, D-all times, skips rush hours AM southbound, PM northbound"
   },
@@ -1766,6 +1942,7 @@
     "latitude": 40.840556,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -1776,6 +1953,7 @@
     "latitude": 40.849505,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -1786,6 +1964,7 @@
     "latitude": 40.855225,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -1796,6 +1975,7 @@
     "latitude": 40.847391,
     "line": "A",
     "line_varname": "A",
+    "all_lines_varname": "A",
     "color": "blue",
     "notes": "A-all times"
   },
@@ -1806,6 +1986,7 @@
     "latitude": 40.592943,
     "line": "A",
     "line_varname": "A",
+    "all_lines_varname": "A",
     "color": "blue",
     "notes": "A-all times"
   },
@@ -1816,6 +1997,7 @@
     "latitude": 40.592374,
     "line": "A",
     "line_varname": "A",
+    "all_lines_varname": "A",
     "color": "blue",
     "notes": "A-all times"
   },
@@ -1826,6 +2008,7 @@
     "latitude": 40.58538569,
     "line": "A,S",
     "line_varname": "AS",
+    "all_lines_varname": "AS",
     "color": "multiple",
     "notes": "A-rush hours AM northbound, PM southbound, S Broad Channel to Rockaway Park-all times"
   },
@@ -1836,6 +2019,7 @@
     "latitude": 40.58095587,
     "line": "A,S",
     "line_varname": "AS",
+    "all_lines_varname": "AS",
     "color": "multiple",
     "notes": "A-rush hours AM northbound, PM southbound, S to Broad Channel-all times"
   },
@@ -1846,6 +2030,7 @@
     "latitude": 40.595398,
     "line": "A",
     "line_varname": "A",
+    "all_lines_varname": "A",
     "color": "blue",
     "notes": "A-all times"
   },
@@ -1856,6 +2041,7 @@
     "latitude": 40.600066,
     "line": "A",
     "line_varname": "A",
+    "all_lines_varname": "A",
     "color": "blue",
     "notes": "A-all times"
   },
@@ -1866,6 +2052,7 @@
     "latitude": 40.707572,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -1876,6 +2063,7 @@
     "latitude": 40.7105175,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -1886,6 +2074,7 @@
     "latitude": 40.749865,
     "line": 7,
     "line_varname": 7,
+    "all_lines_varname": 7,
     "color": "purple",
     "notes": "7-all times"
   },
@@ -1896,6 +2085,7 @@
     "latitude": 40.75173,
     "line": 7,
     "line_varname": 7,
+    "all_lines_varname": 7,
     "color": "purple",
     "notes": "7-all times"
   },
@@ -1906,6 +2096,7 @@
     "latitude": 40.72976397,
     "line": "E,M,R",
     "line_varname": "EMR",
+    "all_lines_varname": "EMR",
     "color": "multiple",
     "notes": "E-nights, R-all other times, M-weekdays and evenings"
   },
@@ -1916,6 +2107,7 @@
     "latitude": 40.677044,
     "line": "A,S",
     "line_varname": "AS",
+    "all_lines_varname": "AS",
     "color": "multiple",
     "notes": "A-all times, S Euclid Av to Ozone Park-Lefferts Blvd-nights"
   },
@@ -1926,6 +2118,7 @@
     "latitude": 40.783934,
     "line": "1,2",
     "line_varname": 12,
+    "all_lines_varname": 12,
     "color": "red",
     "notes": "1-all times, 2-nights"
   },
@@ -1936,6 +2129,7 @@
     "latitude": 40.67534467,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -1946,6 +2140,7 @@
     "latitude": 40.733422,
     "line": "1,2",
     "line_varname": 12,
+    "all_lines_varname": 12,
     "color": "red",
     "notes": "1-all times, 2-nights"
   },
@@ -1956,6 +2151,7 @@
     "latitude": 40.685951,
     "line": "A,S",
     "line_varname": "AS",
+    "all_lines_varname": "AS",
     "color": "multiple",
     "notes": "S to Euclid Av-nights, A-all other times"
   },
@@ -1966,6 +2162,7 @@
     "latitude": 40.755477,
     "line": "7,7 Express",
     "line_varname": 77,
+    "all_lines_varname": "1237NQRWS",
     "color": "purple",
     "notes": "7-all times, 7 Express-rush hours AM westbound, PM eastbound"
   },
@@ -1976,6 +2173,7 @@
     "latitude": 40.57603382,
     "line": "F,Q",
     "line_varname": "FQ",
+    "all_lines_varname": "FQ",
     "color": "multiple",
     "notes": "F,Q-all times"
   },
@@ -1986,6 +2184,7 @@
     "latitude": 40.747215,
     "line": "1,2",
     "line_varname": 12,
+    "all_lines_varname": 12,
     "color": "red",
     "notes": "1-all times, 2-nights"
   },
@@ -1996,6 +2195,7 @@
     "latitude": 40.74307,
     "line": "4,6,6 Express",
     "line_varname": 466,
+    "all_lines_varname": 466,
     "color": "green",
     "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -2006,6 +2206,7 @@
     "latitude": 40.852462,
     "line": "6,6 Express",
     "line_varname": 66,
+    "all_lines_varname": 66,
     "color": "green",
     "notes": "6 Express-weekdays AM southbound, PM northbound, 6-all other times"
   },
@@ -2016,6 +2217,7 @@
     "latitude": 40.839892,
     "line": "6,6 Express",
     "line_varname": 66,
+    "all_lines_varname": 66,
     "color": "green",
     "notes": "6 Express-weekdays AM southbound, PM northbound, 6-all other times"
   },
@@ -2026,6 +2228,7 @@
     "latitude": 40.74104,
     "line": "1,2",
     "line_varname": 12,
+    "all_lines_varname": 12,
     "color": "red",
     "notes": "1-all times, 2-nights"
   },
@@ -2036,6 +2239,7 @@
     "latitude": 40.751431,
     "line": "7,7 Express",
     "line_varname": 77,
+    "all_lines_varname": 77,
     "color": "purple",
     "notes": "7-all times, 7 Express-rush hours AM westbound, PM eastbound"
   },
@@ -2046,6 +2250,7 @@
     "latitude": 40.590927,
     "line": "A",
     "line_varname": "A",
+    "all_lines_varname": "A",
     "color": "blue",
     "notes": "A-all times"
   },
@@ -2056,6 +2261,7 @@
     "latitude": 40.732338,
     "line": "A,C,E",
     "line_varname": "ACE",
+    "all_lines_varname": "ACE",
     "color": "blue",
     "notes": "A,E-all times, C-all times exc nights"
   },
@@ -2066,6 +2272,7 @@
     "latitude": 40.692427,
     "line": "J",
     "line_varname": "J",
+    "all_lines_varname": "J",
     "color": "brown",
     "notes": "J-all times"
   },
@@ -2076,6 +2283,7 @@
     "latitude": 40.693704,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "J-all times, Z-rush hours AM westbound, PM eastbound"
   },
@@ -2086,6 +2294,7 @@
     "latitude": 40.69711481,
     "line": "J",
     "line_varname": "J",
+    "all_lines_varname": "J",
     "color": "brown",
     "notes": "J-all times"
   },
@@ -2096,6 +2305,7 @@
     "latitude": 40.700482,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "Z-rush hours AM westbound, PM eastbound, J-all other times"
   },
@@ -2106,6 +2316,7 @@
     "latitude": 40.695518,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -2116,6 +2327,7 @@
     "latitude": 40.69947106,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -2126,6 +2338,7 @@
     "latitude": 40.66631493,
     "line": "3,4",
     "line_varname": 34,
+    "all_lines_varname": 34,
     "color": "multiple",
     "notes": "4-nights, 3-all other times"
   },
@@ -2136,6 +2349,7 @@
     "latitude": 40.67271,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-nights, C-all other times"
   },
@@ -2146,6 +2360,7 @@
     "latitude": 40.679778,
     "line": "J",
     "line_varname": "J",
+    "all_lines_varname": "J",
     "color": "brown",
     "notes": "J-all times"
   },
@@ -2156,6 +2371,7 @@
     "latitude": 40.66405727,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -2166,6 +2382,7 @@
     "latitude": 40.663589,
     "line": "3,4",
     "line_varname": 34,
+    "all_lines_varname": 34,
     "color": "multiple",
     "notes": "4-nights, 3-all other times"
   },
@@ -2176,6 +2393,7 @@
     "latitude": 40.66261749,
     "line": "3,4",
     "line_varname": 34,
+    "all_lines_varname": 34,
     "color": "multiple",
     "notes": "4-nights, 3-all other times"
   },
@@ -2186,6 +2404,7 @@
     "latitude": 40.64665367,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -2196,6 +2415,7 @@
     "latitude": 40.65046879,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -2206,6 +2426,7 @@
     "latitude": 40.66152979,
     "line": "3,4",
     "line_varname": 34,
+    "all_lines_varname": 34,
     "color": "multiple",
     "notes": "4-nights, 3-all other times"
   },
@@ -2216,6 +2437,7 @@
     "latitude": 40.66476679,
     "line": "3,4",
     "line_varname": 34,
+    "all_lines_varname": 34,
     "color": "multiple",
     "notes": "4-nights, 3-all other times"
   },
@@ -2226,6 +2448,7 @@
     "latitude": 40.65891477,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -2236,6 +2459,7 @@
     "latitude": 40.679366,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "J-all times, Z-rush hours AM westbound, PM eastbound"
   },
@@ -2246,6 +2470,7 @@
     "latitude": 40.676998,
     "line": "J",
     "line_varname": "J",
+    "all_lines_varname": "J",
     "color": "brown",
     "notes": "J-all times"
   },
@@ -2256,6 +2481,7 @@
     "latitude": 40.67413,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-nights, C-all other times"
   },
@@ -2266,6 +2492,7 @@
     "latitude": 40.68315266,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "J-all times, Z-rush hours AM westbound, PM eastbound"
   },
@@ -2276,6 +2503,7 @@
     "latitude": 40.689616,
     "line": "J",
     "line_varname": "J",
+    "all_lines_varname": "J",
     "color": "brown",
     "notes": "J-all times"
   },
@@ -2286,6 +2514,7 @@
     "latitude": 40.69129,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "Z-rush hours AM westbound, PM eastbound, J-all other times"
   },
@@ -2296,6 +2525,7 @@
     "latitude": 40.746325,
     "line": 7,
     "line_varname": 7,
+    "all_lines_varname": 7,
     "color": "purple",
     "notes": "7-all times"
   },
@@ -2306,6 +2536,7 @@
     "latitude": 40.74686757,
     "line": 7,
     "line_varname": 7,
+    "all_lines_varname": 7,
     "color": "purple",
     "notes": "7-all times"
   },
@@ -2316,6 +2547,7 @@
     "latitude": 40.73309737,
     "line": "E,M,R",
     "line_varname": "EMR",
+    "all_lines_varname": "EMR",
     "color": "multiple",
     "notes": "E-nights, R-all other times, M-weekdays and evenings"
   },
@@ -2326,6 +2558,7 @@
     "latitude": 40.699454,
     "line": "M",
     "line_varname": "M",
+    "all_lines_varname": "M",
     "color": "orange",
     "notes": "M-all times"
   },
@@ -2336,6 +2569,7 @@
     "latitude": 40.702919,
     "line": "M",
     "line_varname": "M",
+    "all_lines_varname": "M",
     "color": "orange",
     "notes": "M-all times"
   },
@@ -2346,6 +2580,7 @@
     "latitude": 40.703693,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -2356,6 +2591,7 @@
     "latitude": 40.744149,
     "line": 7,
     "line_varname": 7,
+    "all_lines_varname": 7,
     "color": "purple",
     "notes": "7-all times"
   },
@@ -2366,6 +2602,7 @@
     "latitude": 40.75631695,
     "line": "E,M,R",
     "line_varname": "EMR",
+    "all_lines_varname": "EMR",
     "color": "multiple",
     "notes": "E-nights, R-all other times, M-weekdays and evenings"
   },
@@ -2376,6 +2613,7 @@
     "latitude": 40.75282483,
     "line": "E,M,R",
     "line_varname": "EMR",
+    "all_lines_varname": "EMR",
     "color": "multiple",
     "notes": "E-nights, R-all other times, M-weekdays and evenings"
   },
@@ -2386,6 +2624,7 @@
     "latitude": 40.743132,
     "line": 7,
     "line_varname": 7,
+    "all_lines_varname": 7,
     "color": "purple",
     "notes": "7-all times"
   },
@@ -2396,6 +2635,7 @@
     "latitude": 40.747659,
     "line": 7,
     "line_varname": 7,
+    "all_lines_varname": 7,
     "color": "purple",
     "notes": "7-all times"
   },
@@ -2406,6 +2646,7 @@
     "latitude": 40.748408,
     "line": 7,
     "line_varname": 7,
+    "all_lines_varname": 7,
     "color": "purple",
     "notes": "7-all times"
   },
@@ -2416,6 +2657,7 @@
     "latitude": 40.660476,
     "line": "A",
     "line_varname": "A",
+    "all_lines_varname": "A",
     "color": "blue",
     "notes": "A-all times"
   },
@@ -2426,6 +2668,7 @@
     "latitude": 40.668234,
     "line": "A",
     "line_varname": "A",
+    "all_lines_varname": "A",
     "color": "blue",
     "notes": "A-all times"
   },
@@ -2436,6 +2679,7 @@
     "latitude": 40.70916182,
     "line": "E,F",
     "line_varname": "EF",
+    "all_lines_varname": "EF",
     "color": "multiple",
     "notes": "E-evenings, weekends, nights, F-all times"
   },
@@ -2446,6 +2690,7 @@
     "latitude": 40.72159431,
     "line": "E,F,M,R",
     "line_varname": "EFMR",
+    "all_lines_varname": "EFMR",
     "color": "multiple",
     "notes": "E,F-all times, M-weekdays and evenings, R-all times exc nights"
   },
@@ -2456,6 +2701,7 @@
     "latitude": 40.705418,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -2466,6 +2712,7 @@
     "latitude": 40.70206738,
     "line": "E,J,Z",
     "line_varname": "EJZ",
+    "all_lines_varname": "EJZ",
     "color": "multiple",
     "notes": "E,J-all times, Z-rush hours AM westbound, PM eastbound"
   },
@@ -2476,6 +2723,7 @@
     "latitude": 40.88802826,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-rush hours AM southbound, PM northbound"
   },
@@ -2486,6 +2734,7 @@
     "latitude": 40.828584,
     "line": 6,
     "line_varname": 6,
+    "all_lines_varname": 6,
     "color": "green",
     "notes": "6-all times"
   },
@@ -2496,6 +2745,7 @@
     "latitude": 40.816104,
     "line": 6,
     "line_varname": 6,
+    "all_lines_varname": 6,
     "color": "green",
     "notes": "6-all times"
   },
@@ -2506,6 +2756,7 @@
     "latitude": 40.770037,
     "line": "N,W",
     "line_varname": "NW",
+    "all_lines_varname": "NW",
     "color": "yellow",
     "notes": "N-all times, W part time"
   },
@@ -2516,6 +2767,7 @@
     "latitude": 40.77503567,
     "line": "N,W",
     "line_varname": "NW",
+    "all_lines_varname": "NW",
     "color": "yellow",
     "notes": "N-all times, W part time"
   },
@@ -2526,6 +2778,7 @@
     "latitude": 40.81643747,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound"
   },
@@ -2536,6 +2789,7 @@
     "latitude": 40.81948726,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound"
   },
@@ -2546,6 +2800,7 @@
     "latitude": 40.805368,
     "line": 6,
     "line_varname": 6,
+    "all_lines_varname": 6,
     "color": "green",
     "notes": "6-all times"
   },
@@ -2556,6 +2811,7 @@
     "latitude": 40.83719555,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound"
   },
@@ -2566,6 +2822,7 @@
     "latitude": 40.86548338,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-rush hours AM southbound, PM northbound"
   },
@@ -2576,6 +2833,7 @@
     "latitude": 40.808719,
     "line": 6,
     "line_varname": 6,
+    "all_lines_varname": 6,
     "color": "green",
     "notes": "6-all times"
   },
@@ -2586,6 +2844,7 @@
     "latitude": 40.86776,
     "line": 4,
     "line_varname": 4,
+    "all_lines_varname": 4,
     "color": "green",
     "notes": "4-all times"
   },
@@ -2596,6 +2855,7 @@
     "latitude": 40.873412,
     "line": 4,
     "line_varname": 4,
+    "all_lines_varname": 4,
     "color": "green",
     "notes": "4-all times"
   },
@@ -2606,6 +2866,7 @@
     "latitude": 40.82388,
     "line": 3,
     "line_varname": 3,
+    "all_lines_varname": 3,
     "color": "red",
     "notes": "3-all times"
   },
@@ -2616,6 +2877,7 @@
     "latitude": 40.844434,
     "line": 4,
     "line_varname": 4,
+    "all_lines_varname": 4,
     "color": "green",
     "notes": "4-all times"
   },
@@ -2626,6 +2888,7 @@
     "latitude": 40.861296,
     "line": "B,D",
     "line_varname": "BD",
+    "all_lines_varname": "BD",
     "color": "orange",
     "notes": "B-rush hours, D-all times"
   },
@@ -2636,6 +2899,7 @@
     "latitude": 40.840075,
     "line": 4,
     "line_varname": 4,
+    "all_lines_varname": 4,
     "color": "green",
     "notes": "4-all times"
   },
@@ -2646,6 +2910,7 @@
     "latitude": 40.873244,
     "line": "B,D",
     "line_varname": "BD",
+    "all_lines_varname": "BD",
     "color": "orange",
     "notes": "B-rush hours, D-all times"
   },
@@ -2656,6 +2921,7 @@
     "latitude": 40.874561,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -2666,6 +2932,7 @@
     "latitude": 40.878856,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -2676,6 +2943,7 @@
     "latitude": 40.869444,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -2686,6 +2954,7 @@
     "latitude": 40.864614,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -2696,6 +2965,7 @@
     "latitude": 40.868072,
     "line": "A",
     "line_varname": "A",
+    "all_lines_varname": "A",
     "color": "blue",
     "notes": "A-all times"
   },
@@ -2706,6 +2976,7 @@
     "latitude": 40.889248,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -2716,6 +2987,7 @@
     "latitude": 40.84020763,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-all times exc nights, skips rush hours AM southbound, PM northbound"
   },
@@ -2726,6 +2998,7 @@
     "latitude": 40.88388797,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-rush hours AM southbound, PM northbound"
   },
@@ -2736,6 +3009,7 @@
     "latitude": 40.87975,
     "line": 4,
     "line_varname": 4,
+    "all_lines_varname": 4,
     "color": "green",
     "notes": "4-all times"
   },
@@ -2746,6 +3020,7 @@
     "latitude": 40.874811,
     "line": "D",
     "line_varname": "D",
+    "all_lines_varname": "D",
     "color": "orange",
     "notes": "D-all times"
   },
@@ -2756,6 +3031,7 @@
     "latitude": 40.8712588,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-rush hours AM southbound, PM northbound"
   },
@@ -2766,6 +3042,7 @@
     "latitude": 40.878663,
     "line": 5,
     "line_varname": 5,
+    "all_lines_varname": 5,
     "color": "green",
     "notes": "5-all times"
   },
@@ -2776,6 +3053,7 @@
     "latitude": 40.8883,
     "line": 5,
     "line_varname": 5,
+    "all_lines_varname": 5,
     "color": "green",
     "notes": "5-all times"
   },
@@ -2786,6 +3064,7 @@
     "latitude": 40.71264567,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -2796,6 +3075,7 @@
     "latitude": 40.903125,
     "line": 2,
     "line_varname": 2,
+    "all_lines_varname": 2,
     "color": "red",
     "notes": "2-all times"
   },
@@ -2806,6 +3086,7 @@
     "latitude": 40.67034267,
     "line": "S",
     "line_varname": "S",
+    "all_lines_varname": "S",
     "color": "shuttlegray",
     "notes": "S Franklin Av-Fulton St to Prospect Park-all times"
   },
@@ -2816,6 +3097,7 @@
     "latitude": 40.68286063,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -2826,6 +3108,7 @@
     "latitude": 40.67845625,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -2836,6 +3119,7 @@
     "latitude": 40.869526,
     "line": 5,
     "line_varname": 5,
+    "all_lines_varname": 5,
     "color": "green",
     "notes": "5-all times"
   },
@@ -2846,6 +3130,7 @@
     "latitude": 40.84186304,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2,5-all times"
   },
@@ -2856,6 +3141,7 @@
     "latitude": 40.860531,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -2866,6 +3152,7 @@
     "latitude": 40.815581,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -2876,6 +3163,7 @@
     "latitude": 40.68059567,
     "line": "S",
     "line_varname": "S",
+    "all_lines_varname": "S",
     "color": "shuttlegray",
     "notes": "S to Prospect Park-all times"
   },
@@ -2886,6 +3174,7 @@
     "latitude": 40.81833014,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-all times exc nights"
   },
@@ -2896,6 +3185,7 @@
     "latitude": 40.81602925,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5-all times exc nights"
   },
@@ -2906,6 +3196,7 @@
     "latitude": 40.835537,
     "line": 4,
     "line_varname": 4,
+    "all_lines_varname": 4,
     "color": "green",
     "notes": "4-all times"
   },
@@ -2916,6 +3207,7 @@
     "latitude": 40.807566,
     "line": 6,
     "line_varname": 6,
+    "all_lines_varname": 6,
     "color": "green",
     "notes": "6-all times"
   },
@@ -2926,6 +3218,7 @@
     "latitude": 40.744587,
     "line": 7,
     "line_varname": 7,
+    "all_lines_varname": 7,
     "color": "purple",
     "notes": "7-all times"
   },
@@ -2936,6 +3229,7 @@
     "latitude": 40.743781,
     "line": 7,
     "line_varname": 7,
+    "all_lines_varname": 7,
     "color": "purple",
     "notes": "7-all times"
   },
@@ -2946,6 +3240,7 @@
     "latitude": 40.82476636,
     "line": "A,B,C,D",
     "line_varname": "ABCD",
+    "all_lines_varname": "ABCD",
     "color": "multiple",
     "notes": "A,D-all times, B-weekdays and evenings, C-all times exc nights"
   },
@@ -2956,6 +3251,7 @@
     "latitude": 40.830135,
     "line": "B,D",
     "line_varname": "BD",
+    "all_lines_varname": "BD",
     "color": "orange",
     "notes": "B-rush hours, D-all times, skips rush hours AM southbound, PM northbound"
   },
@@ -2966,6 +3262,7 @@
     "latitude": 40.827905,
     "line": "B,D",
     "line_varname": "BD",
+    "all_lines_varname": "BD",
     "color": "orange",
     "notes": "B-rush hours, D-all times, skips rush hours AM southbound, PM northbound"
   },
@@ -2976,6 +3273,7 @@
     "latitude": 40.679364,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-all times, C-all times exc nights"
   },
@@ -2986,6 +3284,7 @@
     "latitude": 40.75698736,
     "line": "E,M,R",
     "line_varname": "EMR",
+    "all_lines_varname": "EMR",
     "color": "multiple",
     "notes": "E-nights, R-all other times, M-weekdays and evenings"
   },
@@ -2996,6 +3295,7 @@
     "latitude": 40.693172,
     "line": "J",
     "line_varname": "J",
+    "all_lines_varname": "J",
     "color": "brown",
     "notes": "J-all times"
   },
@@ -3006,6 +3306,7 @@
     "latitude": 40.689584,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "Z-rush hours AM westbound, PM eastbound, J-all other times"
   },
@@ -3016,6 +3317,7 @@
     "latitude": 40.697873,
     "line": "M",
     "line_varname": "M",
+    "all_lines_varname": "M",
     "color": "orange",
     "notes": "M-all times"
   },
@@ -3026,6 +3328,7 @@
     "latitude": 40.69866,
     "line": "M",
     "line_varname": "M",
+    "all_lines_varname": "M",
     "color": "orange",
     "notes": "M-all times"
   },
@@ -3036,6 +3339,7 @@
     "latitude": 40.76677867,
     "line": "N,W",
     "line_varname": "NW",
+    "all_lines_varname": "NW",
     "color": "yellow",
     "notes": "N-all times, W part time"
   },
@@ -3046,6 +3350,7 @@
     "latitude": 40.70660667,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -3056,6 +3361,7 @@
     "latitude": 40.70615167,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -3066,6 +3372,7 @@
     "latitude": 40.74891772,
     "line": "E,M,R",
     "line_varname": "EMR",
+    "all_lines_varname": "EMR",
     "color": "multiple",
     "notes": "E-all times, M-weekdays and evenings, R-all times exc nights"
   },
@@ -3076,6 +3383,7 @@
     "latitude": 40.62975467,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3086,6 +3394,7 @@
     "latitude": 40.62974167,
     "line": "R",
     "line_varname": "R",
+    "all_lines_varname": "R",
     "color": "yellow",
     "notes": "R-all times"
   },
@@ -3096,6 +3405,7 @@
     "latitude": 40.63496667,
     "line": "R",
     "line_varname": "R",
+    "all_lines_varname": "R",
     "color": "yellow",
     "notes": "R-all times"
   },
@@ -3106,6 +3416,7 @@
     "latitude": 40.63626089,
     "line": "D",
     "line_varname": "D",
+    "all_lines_varname": "D",
     "color": "orange",
     "notes": "D-all times"
   },
@@ -3116,6 +3427,7 @@
     "latitude": 40.63138567,
     "line": "N",
     "line_varname": "N",
+    "all_lines_varname": "N",
     "color": "yellow",
     "notes": "N-all times"
   },
@@ -3126,6 +3438,7 @@
     "latitude": 40.59770367,
     "line": "D",
     "line_varname": "D",
+    "all_lines_varname": "D",
     "color": "orange",
     "notes": "D-all times"
   },
@@ -3136,6 +3449,7 @@
     "latitude": 40.60195046,
     "line": "D",
     "line_varname": "D",
+    "all_lines_varname": "D",
     "color": "orange",
     "notes": "D-all times"
   },
@@ -3146,6 +3460,7 @@
     "latitude": 40.617109,
     "line": "N",
     "line_varname": "N",
+    "all_lines_varname": "N",
     "color": "yellow",
     "notes": "N-all times"
   },
@@ -3156,6 +3471,7 @@
     "latitude": 40.620687,
     "line": "N",
     "line_varname": "N",
+    "all_lines_varname": "N",
     "color": "yellow",
     "notes": "N-all times"
   },
@@ -3166,6 +3482,7 @@
     "latitude": 40.61662167,
     "line": "R",
     "line_varname": "R",
+    "all_lines_varname": "R",
     "color": "yellow",
     "notes": "R-all times"
   },
@@ -3176,6 +3493,7 @@
     "latitude": 40.62268667,
     "line": "R",
     "line_varname": "R",
+    "all_lines_varname": "R",
     "color": "yellow",
     "notes": "R-all times"
   },
@@ -3186,6 +3504,7 @@
     "latitude": 40.61315893,
     "line": "D",
     "line_varname": "D",
+    "all_lines_varname": "D",
     "color": "orange",
     "notes": "D-all times"
   },
@@ -3196,6 +3515,7 @@
     "latitude": 40.61925871,
     "line": "D",
     "line_varname": "D",
+    "all_lines_varname": "D",
     "color": "orange",
     "notes": "D-all times"
   },
@@ -3206,6 +3526,7 @@
     "latitude": 40.604677,
     "line": "D",
     "line_varname": "D",
+    "all_lines_varname": "D",
     "color": "orange",
     "notes": "D-all times"
   },
@@ -3216,6 +3537,7 @@
     "latitude": 40.60773573,
     "line": "D",
     "line_varname": "D",
+    "all_lines_varname": "D",
     "color": "orange",
     "notes": "D-all times"
   },
@@ -3226,6 +3548,7 @@
     "latitude": 40.62622446,
     "line": "D",
     "line_varname": "D",
+    "all_lines_varname": "D",
     "color": "orange",
     "notes": "D-all times"
   },
@@ -3236,6 +3559,7 @@
     "latitude": 40.62484167,
     "line": "N",
     "line_varname": "N",
+    "all_lines_varname": "N",
     "color": "yellow",
     "notes": "N-all times"
   },
@@ -3246,6 +3570,7 @@
     "latitude": 40.59592483,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3256,6 +3581,7 @@
     "latitude": 40.60325841,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3266,6 +3592,7 @@
     "latitude": 40.5777102,
     "line": "B,Q",
     "line_varname": "BQ",
+    "all_lines_varname": "BQ",
     "color": "multiple",
     "notes": "B-weekdays and evenings, Q-all times"
   },
@@ -3276,6 +3603,7 @@
     "latitude": 40.58654755,
     "line": "B,Q",
     "line_varname": "BQ",
+    "all_lines_varname": "BQ",
     "color": "multiple",
     "notes": "B-weekdays and evenings, Q-all times"
   },
@@ -3286,6 +3614,7 @@
     "latitude": 40.59930895,
     "line": "Q",
     "line_varname": "Q",
+    "all_lines_varname": "Q",
     "color": "yellow",
     "notes": "Q-all times"
   },
@@ -3296,6 +3625,7 @@
     "latitude": 40.60863865,
     "line": "B,Q",
     "line_varname": "BQ",
+    "all_lines_varname": "BQ",
     "color": "multiple",
     "notes": "B-weekdays and evenings, Q-all times"
   },
@@ -3306,6 +3636,7 @@
     "latitude": 40.597236,
     "line": "N",
     "line_varname": "N",
+    "all_lines_varname": "N",
     "color": "yellow",
     "notes": "N-all times"
   },
@@ -3316,6 +3647,7 @@
     "latitude": 40.604059,
     "line": "N",
     "line_varname": "N",
+    "all_lines_varname": "N",
     "color": "yellow",
     "notes": "N-all times"
   },
@@ -3326,6 +3658,7 @@
     "latitude": 40.58073876,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3336,6 +3669,7 @@
     "latitude": 40.58944967,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3346,6 +3680,7 @@
     "latitude": 40.58884067,
     "line": "D",
     "line_varname": "D",
+    "all_lines_varname": "D",
     "color": "orange",
     "notes": "D-all times"
   },
@@ -3356,6 +3691,7 @@
     "latitude": 40.592465,
     "line": "N",
     "line_varname": "N",
+    "all_lines_varname": "N",
     "color": "yellow",
     "notes": "N-all times"
   },
@@ -3366,6 +3702,7 @@
     "latitude": 40.60884281,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3376,6 +3713,7 @@
     "latitude": 40.61435671,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3386,6 +3724,7 @@
     "latitude": 40.62073162,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3396,6 +3735,7 @@
     "latitude": 40.61739774,
     "line": "Q",
     "line_varname": "Q",
+    "all_lines_varname": "Q",
     "color": "yellow",
     "notes": "Q-all times"
   },
@@ -3406,6 +3746,7 @@
     "latitude": 40.61145579,
     "line": "N",
     "line_varname": "N",
+    "all_lines_varname": "N",
     "color": "yellow",
     "notes": "N-all times"
   },
@@ -3416,6 +3757,7 @@
     "latitude": 40.62501744,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3426,6 +3768,7 @@
     "latitude": 40.62502282,
     "line": "Q",
     "line_varname": "Q",
+    "all_lines_varname": "Q",
     "color": "yellow",
     "notes": "Q-all times"
   },
@@ -3436,6 +3779,7 @@
     "latitude": 40.62920838,
     "line": "Q",
     "line_varname": "Q",
+    "all_lines_varname": "Q",
     "color": "yellow",
     "notes": "Q-all times"
   },
@@ -3446,6 +3790,7 @@
     "latitude": 40.59532169,
     "line": "Q",
     "line_varname": "Q",
+    "all_lines_varname": "Q",
     "color": "yellow",
     "notes": "Q-all times"
   },
@@ -3456,6 +3801,7 @@
     "latitude": 40.75373927,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3466,6 +3812,7 @@
     "latitude": 40.762456,
     "line": "A,C,E",
     "line_varname": "ACE",
+    "all_lines_varname": "ACE",
     "color": "blue",
     "notes": "A-nights, C-all other times, E-all times"
   },
@@ -3476,6 +3823,7 @@
     "latitude": 40.76297015,
     "line": "B,D,E",
     "line_varname": "BDE",
+    "all_lines_varname": "BDE",
     "color": "multiple",
     "notes": "D,E-all times, B-weekdays and evenings"
   },
@@ -3486,6 +3834,7 @@
     "latitude": 40.758641,
     "line": "B,D,F,M",
     "line_varname": "BDFM",
+    "all_lines_varname": "BDFM",
     "color": "orange",
     "notes": "B,M-weekdays and evenings, D,F-all times"
   },
@@ -3496,6 +3845,7 @@
     "latitude": 40.764085,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3506,6 +3856,7 @@
     "latitude": 40.76461809,
     "line": "F,Q",
     "line_varname": "FQ",
+    "all_lines_varname": "FQ",
     "color": "multiple",
     "notes": "F-all times, Q all times"
   },
@@ -3516,6 +3867,7 @@
     "latitude": 40.759172,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3526,6 +3878,7 @@
     "latitude": 40.76824953,
     "line": "A,B,C,D",
     "line_varname": "ABCD",
+    "all_lines_varname": "ABCD",
     "color": "multiple",
     "notes": "A,D-all times, B-weekdays and evenings, C-all times exc nights"
   },
@@ -3536,6 +3889,7 @@
     "latitude": 40.75980197,
     "line": "N,Q,R,W",
     "line_varname": "NQRW",
+    "all_lines_varname": "NQRW",
     "color": "yellow",
     "notes": "N-all times, Q-all times exc weekends, R-all times exc nights, W part time"
   },
@@ -3546,6 +3900,7 @@
     "latitude": 40.76456553,
     "line": "N,Q,R,W",
     "line_varname": "NQRW",
+    "all_lines_varname": "NQRW",
     "color": "yellow",
     "notes": "N,Q-all times, R-all times exc nights, W part time"
   },
@@ -3556,6 +3911,7 @@
     "latitude": 40.764811,
     "line": "N,R,W",
     "line_varname": "NRW",
+    "all_lines_varname": "NRW",
     "color": "yellow",
     "notes": "N-all times, R-all times exc nights, W part time"
   },
@@ -3566,6 +3922,7 @@
     "latitude": 40.76270886,
     "line": "N,R,W",
     "line_varname": "NRW",
+    "all_lines_varname": "NRW",
     "color": "yellow",
     "notes": "N-all times, R-all times exc nights, W part time"
   },
@@ -3576,6 +3933,7 @@
     "latitude": 40.750373,
     "line": "1,2,3",
     "line_varname": 123,
+    "all_lines_varname": 123,
     "color": "red",
     "notes": "1,2,3-all times"
   },
@@ -3586,6 +3944,7 @@
     "latitude": 40.75529,
     "line": "1,2,3",
     "line_varname": 123,
+    "all_lines_varname": "1237NQRWS",
     "color": "red",
     "notes": "1,2,3-all times"
   },
@@ -3596,6 +3955,7 @@
     "latitude": 40.71016217,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-all times, C-all times exc nights"
   },
@@ -3606,6 +3966,7 @@
     "latitude": 40.714111,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-all times, C-all times exc nights"
   },
@@ -3616,6 +3977,7 @@
     "latitude": 40.757308,
     "line": "A,C,E",
     "line_varname": "ACE",
+    "all_lines_varname": "ACE",
     "color": "blue",
     "notes": "A,E-all times, C-all times exc nights"
   },
@@ -3626,6 +3988,7 @@
     "latitude": 40.694619,
     "line": "G",
     "line_varname": "G",
+    "all_lines_varname": "G",
     "color": "lightgreen",
     "notes": "G-all times"
   },
@@ -3636,6 +3999,7 @@
     "latitude": 40.70037667,
     "line": "G",
     "line_varname": "G",
+    "all_lines_varname": "G",
     "color": "lightgreen",
     "notes": "G-all times"
   },
@@ -3646,6 +4010,7 @@
     "latitude": 40.74295432,
     "line": "F,M",
     "line_varname": "FM",
+    "all_lines_varname": "FM",
     "color": "orange",
     "notes": "F-all times, M-weekdays and evenings"
   },
@@ -3656,6 +4021,7 @@
     "latitude": 40.7497894,
     "line": "B,D,F,M",
     "line_varname": "BDFM",
+    "all_lines_varname": "BDFM",
     "color": "orange",
     "notes": "B,M-weekdays and evenings, D,F-all times"
   },
@@ -3666,6 +4032,7 @@
     "latitude": 40.68840848,
     "line": "A,C,G",
     "line_varname": "ACG",
+    "all_lines_varname": "ACG",
     "color": "multiple",
     "notes": "A,G-all times, C-all times exc nights"
   },
@@ -3676,6 +4043,7 @@
     "latitude": 40.69247064,
     "line": "A,C,F",
     "line_varname": "ACF",
+    "all_lines_varname": "ACF",
     "color": "multiple",
     "notes": "A,F-all times, C-all times exc nights"
   },
@@ -3686,6 +4054,7 @@
     "latitude": 40.713855,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3696,6 +4065,7 @@
     "latitude": 40.71868074,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3706,6 +4076,7 @@
     "latitude": 40.72340167,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -3716,6 +4087,7 @@
     "latitude": 40.7004044,
     "line": "J,M",
     "line_varname": "JM",
+    "all_lines_varname": "JM",
     "color": "multiple",
     "notes": "J-all times, skips weekdays AM westbound, PM eastbound, M-all times exc nights"
   },
@@ -3726,6 +4098,7 @@
     "latitude": 40.697195,
     "line": "J,M,Z",
     "line_varname": "JMZ",
+    "all_lines_varname": "JMZ",
     "color": "multiple",
     "notes": "J,M-all times, Z-rush hours AM westbound, PM eastbound"
   },
@@ -3736,6 +4109,7 @@
     "latitude": 40.67027167,
     "line": "F,G",
     "line_varname": "FG",
+    "all_lines_varname": "FG",
     "color": "multiple",
     "notes": "F,G-all times"
   },
@@ -3746,6 +4120,7 @@
     "latitude": 40.67364106,
     "line": "F,G",
     "line_varname": "FG",
+    "all_lines_varname": "FG",
     "color": "multiple",
     "notes": "F,G-all times"
   },
@@ -3756,6 +4131,7 @@
     "latitude": 40.68611055,
     "line": "F,G",
     "line_varname": "FG",
+    "all_lines_varname": "FG",
     "color": "multiple",
     "notes": "F,G-all times"
   },
@@ -3766,6 +4142,7 @@
     "latitude": 40.6922554,
     "line": "N,R",
     "line_varname": "NR",
+    "all_lines_varname": "NR",
     "color": "yellow",
     "notes": "N-nights, R-all other times"
   },
@@ -3776,6 +4153,7 @@
     "latitude": 40.69419648,
     "line": "N,R",
     "line_varname": "NR",
+    "all_lines_varname": "NR",
     "color": "yellow",
     "notes": "N-nights, R-all other times"
   },
@@ -3786,6 +4164,7 @@
     "latitude": 40.73587227,
     "line": "N,Q,R,W",
     "line_varname": "NQRW",
+    "all_lines_varname": "NQRW",
     "color": "yellow",
     "notes": "N,Q-all times, R-all times exc nights"
   },
@@ -3796,6 +4175,7 @@
     "latitude": 40.74130267,
     "line": "N,Q,R,W",
     "line_varname": "NQRW",
+    "all_lines_varname": "NQRW",
     "color": "yellow",
     "notes": "N-all times, Q-nights, R-all times exc nights"
   },
@@ -3806,6 +4186,7 @@
     "latitude": 40.66541367,
     "line": "D,N,R",
     "line_varname": "DNR",
+    "all_lines_varname": "DNR",
     "color": "multiple",
     "notes": "D,N-nights, R-all other times"
   },
@@ -3816,6 +4197,7 @@
     "latitude": 40.67084667,
     "line": "D,N,R",
     "line_varname": "DNR",
+    "all_lines_varname": "DNR",
     "color": "multiple",
     "notes": "D,N-nights, R-all other times"
   },
@@ -3826,6 +4208,7 @@
     "latitude": 40.732691,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -3836,6 +4219,7 @@
     "latitude": 40.73476331,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -3846,6 +4230,7 @@
     "latitude": 40.674542,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-nights, C-all other times"
   },
@@ -3856,6 +4241,7 @@
     "latitude": 40.67833367,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-all times, C-all times exc nights"
   },
@@ -3866,6 +4252,7 @@
     "latitude": 40.64136167,
     "line": "N,R",
     "line_varname": "NR",
+    "all_lines_varname": "NR",
     "color": "yellow",
     "notes": "N,R-all times"
   },
@@ -3876,6 +4263,7 @@
     "latitude": 40.64893867,
     "line": "N,R",
     "line_varname": "NR",
+    "all_lines_varname": "NR",
     "color": "yellow",
     "notes": "N-nights, R-all times, skips nights northbound"
   },
@@ -3886,6 +4274,7 @@
     "latitude": 40.65514367,
     "line": "D,N,R",
     "line_varname": "DNR",
+    "all_lines_varname": "DNR",
     "color": "multiple",
     "notes": "D,N,R-all times"
   },
@@ -3896,6 +4285,7 @@
     "latitude": 40.64648408,
     "line": "D",
     "line_varname": "D",
+    "all_lines_varname": "D",
     "color": "orange",
     "notes": "D-all times"
   },
@@ -3906,6 +4296,7 @@
     "latitude": 40.64506867,
     "line": "N,R",
     "line_varname": "NR",
+    "all_lines_varname": "NR",
     "color": "yellow",
     "notes": "N-nights, R-all times, skips nights northbound"
   },
@@ -3916,6 +4307,7 @@
     "latitude": 40.64091271,
     "line": "D",
     "line_varname": "D",
+    "all_lines_varname": "D",
     "color": "orange",
     "notes": "D-all times"
   },
@@ -3926,6 +4318,7 @@
     "latitude": 40.66039667,
     "line": "D,N,R",
     "line_varname": "DNR",
+    "all_lines_varname": "DNR",
     "color": "multiple",
     "notes": "D,N-nights, R-all other times"
   },
@@ -3936,6 +4329,7 @@
     "latitude": 40.68027335,
     "line": "F,G",
     "line_varname": "FG",
+    "all_lines_varname": "FG",
     "color": "multiple",
     "notes": "F,G-all times"
   },
@@ -3946,6 +4340,7 @@
     "latitude": 40.726227,
     "line": "A,C,E",
     "line_varname": "ACE",
+    "all_lines_varname": "ACE",
     "color": "blue",
     "notes": "A-nights, C-all other times, E-all times"
   },
@@ -3956,6 +4351,7 @@
     "latitude": 40.851695,
     "line": "A",
     "line_varname": "A",
+    "all_lines_varname": "A",
     "color": "blue",
     "notes": "A-all times"
   },
@@ -3966,6 +4362,7 @@
     "latitude": 40.859022,
     "line": "A",
     "line_varname": "A",
+    "all_lines_varname": "A",
     "color": "blue",
     "notes": "A-all times"
   },
@@ -3976,6 +4373,7 @@
     "latitude": 40.80505813,
     "line": "A,B,C",
     "line_varname": "ABC",
+    "all_lines_varname": "ABC",
     "color": "multiple",
     "notes": "A-nights, B-weekdays and evenings, C-all times exc nights"
   },
@@ -3986,6 +4384,7 @@
     "latitude": 40.81107167,
     "line": "A,B,C,D",
     "line_varname": "ABCD",
+    "all_lines_varname": "ABCD",
     "color": "multiple",
     "notes": "A,D-all times, B-weekdays and evenings, C-all times exc nights"
   },
@@ -3996,6 +4395,7 @@
     "latitude": 40.72432867,
     "line": "N,Q,R,W",
     "line_varname": "NQRW",
+    "all_lines_varname": "NQRW",
     "color": "yellow",
     "notes": "N-all times, Q-nights, R-all times exc nights"
   },
@@ -4006,6 +4406,7 @@
     "latitude": 40.730465,
     "line": "N,Q,R,W",
     "line_varname": "NQRW",
+    "all_lines_varname": "NQRW",
     "color": "yellow",
     "notes": "N-all times, Q-nights, R-all times exc nights"
   },
@@ -4016,6 +4417,7 @@
     "latitude": 40.709416,
     "line": "2,3",
     "line_varname": 23,
+    "all_lines_varname": 23,
     "color": "red",
     "notes": "2-all times, 3-all times exc nights"
   },
@@ -4026,6 +4428,7 @@
     "latitude": 40.713051,
     "line": "2,3",
     "line_varname": 23,
+    "all_lines_varname": 23,
     "color": "red",
     "notes": "2-all times, 3-all times exc nights"
   },
@@ -4036,6 +4439,7 @@
     "latitude": 40.715478,
     "line": "1,2,3",
     "line_varname": 123,
+    "all_lines_varname": 123,
     "color": "red",
     "notes": "1,2-all times, 3-all times exc nights"
   },
@@ -4046,6 +4450,7 @@
     "latitude": 40.69054419,
     "line": "2,3",
     "line_varname": 23,
+    "all_lines_varname": 23,
     "color": "red",
     "notes": "2-all times, 3-all times exc nights"
   },
@@ -4056,6 +4461,7 @@
     "latitude": 40.693219,
     "line": "2,3",
     "line_varname": 23,
+    "all_lines_varname": 23,
     "color": "red",
     "notes": "2-all times, 3-all times exc nights"
   },
@@ -4066,6 +4472,7 @@
     "latitude": 40.858407,
     "line": 4,
     "line_varname": 4,
+    "all_lines_varname": 4,
     "color": "green",
     "notes": "4-all times"
   },
@@ -4076,6 +4483,7 @@
     "latitude": 40.862803,
     "line": 4,
     "line_varname": 4,
+    "all_lines_varname": 4,
     "color": "green",
     "notes": "4-all times"
   },
@@ -4086,6 +4494,7 @@
     "latitude": 40.71256393,
     "line": "E",
     "line_varname": "E",
+    "all_lines_varname": "E",
     "color": "blue",
     "notes": "E-all times"
   },
@@ -4096,6 +4505,7 @@
     "latitude": 40.720824,
     "line": "A,C,E",
     "line_varname": "ACE",
+    "all_lines_varname": "ACE",
     "color": "blue",
     "notes": "A,E-all times, C-all times exc nights"
   },
@@ -4106,6 +4516,7 @@
     "latitude": 40.830518,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-nights, C-all other times"
   },
@@ -4116,6 +4527,7 @@
     "latitude": 40.836013,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-nights, C-all other times"
   },
@@ -4126,6 +4538,7 @@
     "latitude": 40.71002267,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "J-all times, Z-rush hours AM westbound, PM eastbound"
   },
@@ -4136,6 +4549,7 @@
     "latitude": 40.71323379,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "J-all times, Z-rush hours AM westbound, PM eastbound"
   },
@@ -4146,6 +4560,7 @@
     "latitude": 40.71817388,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "J-all times, Z-rush hours AM westbound, PM eastbound"
   },
@@ -4156,6 +4571,7 @@
     "latitude": 40.71327233,
     "line": "R,W",
     "line_varname": "RW",
+    "all_lines_varname": "RW",
     "color": "yellow",
     "notes": "N-nights, R-all other times"
   },
@@ -4166,6 +4582,7 @@
     "latitude": 40.719465,
     "line": "R,W",
     "line_varname": "RW",
+    "all_lines_varname": "RW",
     "color": "yellow",
     "notes": "N-nights, R-all other times"
   },
@@ -4176,6 +4593,7 @@
     "latitude": 40.70173051,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -4186,6 +4604,7 @@
     "latitude": 40.704914,
     "line": "4,5",
     "line_varname": 45,
+    "all_lines_varname": 45,
     "color": "green",
     "notes": "4-all times, 5-all times exc nights"
   },
@@ -4196,6 +4615,7 @@
     "latitude": 40.707557,
     "line": "4,5",
     "line_varname": 45,
+    "all_lines_varname": 45,
     "color": "green",
     "notes": "4-all times, 5-weekdays"
   },
@@ -4206,6 +4626,7 @@
     "latitude": 40.70314237,
     "line": "R,W",
     "line_varname": "RW",
+    "all_lines_varname": "RW",
     "color": "yellow",
     "notes": "N-nights, R-all other times"
   },
@@ -4216,6 +4637,7 @@
     "latitude": 40.70774476,
     "line": "R,W",
     "line_varname": "RW",
+    "all_lines_varname": "RW",
     "color": "yellow",
     "notes": "N-nights, R-all other times"
   },
@@ -4226,6 +4648,7 @@
     "latitude": 40.706226,
     "line": "M",
     "line_varname": "M",
+    "all_lines_varname": "M",
     "color": "orange",
     "notes": "M-all times"
   },
@@ -4236,6 +4659,7 @@
     "latitude": 40.71143131,
     "line": "M",
     "line_varname": "M",
+    "all_lines_varname": "M",
     "color": "orange",
     "notes": "M-all times"
   },
@@ -4246,6 +4670,7 @@
     "latitude": 40.707513,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "1-all times"
   },
@@ -4256,6 +4681,7 @@
     "latitude": 40.711835,
     "line": 1,
     "line_varname": 1,
+    "all_lines_varname": 1,
     "color": "red",
     "notes": "Temporarily closed"
   },
@@ -4266,6 +4692,7 @@
     "latitude": 40.710368,
     "line": "4,5",
     "line_varname": 45,
+    "all_lines_varname": 45,
     "color": "green",
     "notes": "4-all times, 5-weekdays"
   },
@@ -4276,6 +4703,7 @@
     "latitude": 40.706476,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "J-all times, Z-rush hours AM westbound, PM eastbound"
   },
@@ -4286,6 +4714,7 @@
     "latitude": 40.71051298,
     "line": "R,W",
     "line_varname": "RW",
+    "all_lines_varname": "RW",
     "color": "yellow",
     "notes": "N-nights, R-all other times"
   },
@@ -4296,6 +4725,7 @@
     "latitude": 40.706821,
     "line": "2,3",
     "line_varname": 23,
+    "all_lines_varname": 23,
     "color": "red",
     "notes": "2-all times, 3-all times exc nights"
   },
@@ -4306,6 +4736,7 @@
     "latitude": 40.865491,
     "line": "A",
     "line_varname": "A",
+    "all_lines_varname": "A",
     "color": "blue",
     "notes": "A-all times"
   },
@@ -4316,6 +4747,7 @@
     "latitude": 40.718267,
     "line": "B,D",
     "line_varname": "BD",
+    "all_lines_varname": "BD",
     "color": "orange",
     "notes": "B-weekdays and evenings, D-all times"
   },
@@ -4326,6 +4758,7 @@
     "latitude": 40.725297,
     "line": "B,D,F,M",
     "line_varname": "BDFM",
+    "all_lines_varname": "BDFM",
     "color": "orange",
     "notes": "B,M-weekdays and evenings, D,F-all times"
   },
@@ -4336,6 +4769,7 @@
     "latitude": 40.72024688,
     "line": "J,Z",
     "line_varname": "JZ",
+    "all_lines_varname": "JZ",
     "color": "brown",
     "notes": "J-all times, Z-rush hours AM westbound, PM eastbound"
   },
@@ -4346,6 +4780,7 @@
     "latitude": 40.71881426,
     "line": "N,Q",
     "line_varname": "NQ",
+    "all_lines_varname": "NQ",
     "color": "yellow",
     "notes": "N-all times, Q-weekdays and evenings"
   },
@@ -4356,6 +4791,7 @@
     "latitude": 40.745906,
     "line": "A,C,E",
     "line_varname": "ACE",
+    "all_lines_varname": "ACE",
     "color": "blue",
     "notes": "A-nights, C-all other times, E-all times"
   },
@@ -4366,6 +4802,7 @@
     "latitude": 40.752287,
     "line": "A,C,E",
     "line_varname": "ACE",
+    "all_lines_varname": "ACE",
     "color": "blue",
     "notes": "A,E-all times, C-all times exc nights"
   },
@@ -4376,6 +4813,7 @@
     "latitude": 40.74653969,
     "line": "E,F,M,R",
     "line_varname": "EFMR",
+    "all_lines_varname": "EFMR",
     "color": "multiple",
     "notes": "E,F-all times, M-weekdays and evenings, R-all times exc nights"
   },
@@ -4386,6 +4824,7 @@
     "latitude": 40.737826,
     "line": "1,2,3",
     "line_varname": 123,
+    "all_lines_varname": 123,
     "color": "red",
     "notes": "1,2-all times, 3-all times exc nights"
   },
@@ -4396,6 +4835,7 @@
     "latitude": 40.81790556,
     "line": "A,B,C",
     "line_varname": "ABC",
+    "all_lines_varname": "ABC",
     "color": "multiple",
     "notes": "A-nights, B-weekdays and evenings, C-all times exc nights"
   },
@@ -4406,6 +4846,7 @@
     "latitude": 40.738228,
     "line": "F,M",
     "line_varname": "FM",
+    "all_lines_varname": "FM",
     "color": "orange",
     "notes": "F-all times, M-weekdays and evenings"
   },
@@ -4416,6 +4857,7 @@
     "latitude": 40.73774147,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -4426,6 +4868,7 @@
     "latitude": 40.73977667,
     "line": "L",
     "line_varname": "L",
+    "all_lines_varname": "L",
     "color": "gray",
     "notes": "L-all times"
   },
@@ -4436,6 +4879,7 @@
     "latitude": 40.740893,
     "line": "A,C,E",
     "line_varname": "ACE",
+    "all_lines_varname": "ACE",
     "color": "blue",
     "notes": "A,E-all times, C-all times exc nights"
   },
@@ -4446,6 +4890,7 @@
     "latitude": 40.66993815,
     "line": "3,4",
     "line_varname": 34,
+    "all_lines_varname": 34,
     "color": "multiple",
     "notes": "4-nights, 3-all other times"
   },
@@ -4456,6 +4901,7 @@
     "latitude": 40.697466,
     "line": "2,3",
     "line_varname": 23,
+    "all_lines_varname": 23,
     "color": "red",
     "notes": "2-all times, 3-all times exc nights"
   },
@@ -4466,6 +4912,7 @@
     "latitude": 40.68137967,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-nights, C-all other times"
   },
@@ -4476,6 +4923,7 @@
     "latitude": 40.683263,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-nights, C-all other times"
   },
@@ -4486,6 +4934,7 @@
     "latitude": 40.704412,
     "line": "M",
     "line_varname": "M",
+    "all_lines_varname": "M",
     "color": "orange",
     "notes": "M-all times"
   },
@@ -4496,6 +4945,7 @@
     "latitude": 40.79502,
     "line": "4,6,6 Express",
     "line_varname": 466,
+    "all_lines_varname": 466,
     "color": "green",
     "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -4506,6 +4956,7 @@
     "latitude": 40.779492,
     "line": "4,5,6,6 Express",
     "line_varname": 4566,
+    "all_lines_varname": 4566,
     "color": "green",
     "notes": "4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -4516,6 +4967,7 @@
     "latitude": 40.69974267,
     "line": "F",
     "line_varname": "F",
+    "all_lines_varname": "F",
     "color": "orange",
     "notes": "F-all times"
   },
@@ -4526,6 +4978,7 @@
     "latitude": 40.699337,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-all times, C-all times exc nights"
   },
@@ -4536,6 +4989,7 @@
     "latitude": 40.686113,
     "line": "A,C",
     "line_varname": "AC",
+    "all_lines_varname": "AC",
     "color": "blue",
     "notes": "A-nights, C-all other times"
   },
@@ -4546,6 +5000,7 @@
     "latitude": 40.6678836,
     "line": "2,5",
     "line_varname": 25,
+    "all_lines_varname": 25,
     "color": "multiple",
     "notes": "2-all times, 5 weekdays"
   },
@@ -4556,6 +5011,7 @@
     "latitude": 40.886037,
     "line": 4,
     "line_varname": 4,
+    "all_lines_varname": 4,
     "color": "green",
     "notes": "4-all times"
   },
@@ -4566,6 +5022,7 @@
     "latitude": 40.72591467,
     "line": "4,6,6 Express",
     "line_varname": 466,
+    "all_lines_varname": 466,
     "color": "green",
     "notes": "4 nights, 6-all times, 6 Express-weekdays PM"
   },
@@ -4576,6 +5033,7 @@
     "latitude": 40.7906,
     "line": "4,6,6 Express",
     "line_varname": 466,
+    "all_lines_varname": 466,
     "color": "green",
     "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -4586,6 +5044,7 @@
     "latitude": 40.675377,
     "line": "A,C,S",
     "line_varname": "ACS",
+    "all_lines_varname": "ACS",
     "color": "multiple",
     "notes": "S to Ozone Park-Lefferts Blvd-nights, C-all other times, A-all times"
   },
@@ -4596,6 +5055,7 @@
     "latitude": 40.679843,
     "line": "A,S",
     "line_varname": "AS",
+    "all_lines_varname": "AS",
     "color": "multiple",
     "notes": "A-all times, S Euclid Av to Ozone Park-Lefferts Blvd-nights"
   },
@@ -4606,6 +5066,7 @@
     "latitude": 40.64094017,
     "line": "Q",
     "line_varname": "Q",
+    "all_lines_varname": "Q",
     "color": "yellow",
     "notes": "Q-all times"
   },
@@ -4616,6 +5077,7 @@
     "latitude": 40.798629,
     "line": "4,6,6 Express",
     "line_varname": 466,
+    "all_lines_varname": 466,
     "color": "green",
     "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -4626,6 +5088,7 @@
     "latitude": 40.833226,
     "line": "6,6 Express",
     "line_varname": 66,
+    "all_lines_varname": 66,
     "color": "green",
     "notes": "6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -4636,6 +5099,7 @@
     "latitude": 40.719318,
     "line": "1,2",
     "line_varname": 12,
+    "all_lines_varname": 12,
     "color": "red",
     "notes": "1-all times, 2-nights"
   },
@@ -4646,6 +5110,7 @@
     "latitude": 40.679371,
     "line": "A,S",
     "line_varname": "AS",
+    "all_lines_varname": "AS",
     "color": "multiple",
     "notes": "A-all times, S Euclid Av to Ozone Park-Lefferts Blvd-nights"
   },
@@ -4656,6 +5121,7 @@
     "latitude": 40.753821,
     "line": "7,7 Express",
     "line_varname": 77,
+    "all_lines_varname": 77,
     "color": "purple",
     "notes": "7-all times, 7 Express-rush hours AM westbound, PM eastbound"
   },
@@ -4666,6 +5132,7 @@
     "latitude": 40.722301,
     "line": "4,6,6 Express",
     "line_varname": 466,
+    "all_lines_varname": 466,
     "color": "green",
     "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -4676,6 +5143,7 @@
     "latitude": 40.804138,
     "line": "4,5,6,6 Express",
     "line_varname": 4566,
+    "all_lines_varname": 4566,
     "color": "green",
     "notes": "4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound"
   },
@@ -4686,6 +5154,7 @@
     "latitude": 40.577281,
     "line": "D,F,N,Q",
     "line_varname": "DFNQ",
+    "all_lines_varname": "DFNQ",
     "color": "multiple",
     "notes": "D,F,N,Q-all times"
   },
@@ -4696,6 +5165,7 @@
     "latitude": 40.75544636,
     "line": "7,7 Express",
     "line_varname": 77,
+    "all_lines_varname": 77,
     "color": "purple",
     "notes": "7-all times, 7 Express-rush hours AM westbound, PM eastbound"
   },
@@ -4706,6 +5176,7 @@
     "latitude": 40.76880251,
     "line": "Q",
     "line_varname": "Q",
+    "all_lines_varname": "Q",
     "color": "yellow",
     "notes": "Q-all times"
   },
@@ -4716,6 +5187,7 @@
     "latitude": 40.77786104,
     "line": "Q",
     "line_varname": "Q",
+    "all_lines_varname": "Q",
     "color": "yellow",
     "notes": "Q-all times"
   },
@@ -4726,6 +5198,7 @@
     "latitude": 40.78423665,
     "line": "Q",
     "line_varname": "Q",
+    "all_lines_varname": "Q",
     "color": "yellow",
     "notes": "Q-all times"
   }

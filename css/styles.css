@@ -9,25 +9,82 @@
   top: 10px;
   left: 20px;
   position: fixed;
-  z-index: 1;
+  z-index: 1; /* places filter on top of map container */
+}
+
+#filter::before {
+  content: "";
+  background-color: white;
+  opacity: 0.7;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  border-radius: 30px;
 }
 
 #first-station {
   float: left;
+  position: relative;
+  font-family: sans-serif;
+  width: auto;
+  margin-right: 30px;
+  margin-left: 10px;
 }
 
+/* place second station buttons next to first station */
 #second-station {
   float: left;
+  position: relative;
+  font-family: sans-serif;
+  width: auto;
+  margin-left: 30px;
+  margin-right: 10px;
+}
+
+p {
+  /* background-color: #333333; */
+  font-family: monospace;
+  font-size: 16px;
+  font-weight: bold;
+  color: black;
+  border-radius: 0%;
+  position: relative; /* to ensure this shows up on top of the filter */
+}
+
+h2 {
+  font-family: monospace;
+  font-size: 27px;
+  font-weight: bolder;
+  color: black;
+  text-align: center;
+  /* text-shadow: 5px 5px 5px black; */
+  margin-bottom: 0px;
+  position: relative; /* to ensure this shows up on top of the filter */
 }
 
 .first-button {
-  border-radius: 90%;
+  border-radius: 50%; /* creates rounded buttons */
   width: 25px;
-  height: 25px;
+  height: 25px; /* to create circular buttons: width=height */
   font-family: sans-serif;
   font-weight: bold;
-  color: #E8E8E8;
-  border: none;
+  color: white; /* #E8E8E8 font color */
+  border-width: 0px;
+  outline: none; /* removes automatic button highlighting */
+}
+
+#reset-button {
+  font-family: monospace;
+  text-align: center;
+  border-radius: 13%;
+  width: auto;
+  background-color: cadetblue;
+  color: white;
+  margin-left: 40px;
+  margin-bottom: 7px;
+  outline: none; /* removes automatic button highlighting */
 }
 
 .second-button {
@@ -37,25 +94,39 @@
   font-family: sans-serif;
   font-weight: bold;
   color: #E8E8E8;
-  border: none;
+  border-width: 0px;
   opacity: 0.6;
+  outline: none; /* removes automatic button highlighting */
 }
 
 .first-button:hover {
   cursor: pointer;
   color: black;
+  border-width: 1px;
+  border-color: black;
 }
 
-.second-button:hover {
-  cursor: arrow;
+#reset-button:hover {
+  cursor: pointer;
+  background-color: darkseagreen;
+  color: black;
 }
 
-.first-button:active {
-  background-color: white;
+/* class to be added to second buttons when enabled */
+.second-button-hoverclass:hover {
+  cursor: pointer;
+  color: black;
+  border-width: 1px;
+  border-color: black;
 }
 
-.first-button:focus {
-  background-color: white;
+/* formatting for selected button - we add this class to easily indicate to the user which button he/she selected */
+.selected-button-class {
+  color: black;
+  border-width: 2px;
+  border-color: black;
+  font-weight: 10px;
+  border-radius: 30%;
 }
 
 .mapboxgl-marker {

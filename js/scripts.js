@@ -74,7 +74,7 @@ $.getJSON('./data/subwaystations.json', function(SubwayStations) {
     // create the marker for each station; set the color to the appropriate hex color according to the color dictionary object
     // we will use window variables (global variables) to 'hold' each marker so that they can be called later on outside
     // the scope of this function in order to add/remove markers from the map
-    window[SubwayStation.objectid+'_'+SubwayStation.line_varname] = new mapboxgl.Marker({
+    window[SubwayStation.objectid+'_'+SubwayStation.line_varname+'_'+SubwayStation.all_lines_varname] = new mapboxgl.Marker({
       color: colordict[SubwayStation.color][0],
       scale: 0.5
     })
@@ -84,20 +84,23 @@ $.getJSON('./data/subwaystations.json', function(SubwayStations) {
 
     // we will push the variable name for each marker to the array previously defined
     // the variable name is unique (due to objectid) and also identifies the lines that go to each station (line_varname)
-    marker_varnames.push(`${SubwayStation.objectid}_${SubwayStation.line_varname}`)
+    marker_varnames.push(`${SubwayStation.objectid}_${SubwayStation.line_varname}_${SubwayStation.all_lines_varname}`)
 
   })
 
   // function to add/remove markers based on which button is clicked:
 
   $('.first-button').click(function() {
+    $('.first-button').removeClass("selected-button-class")
+    $('.second-button').removeClass("selected-button-class")
     var button_id = $(this).attr('id') // button id = subway line to filter on
+
     // search for the marker variable names that contain the button id subway line
-    console.log(button_id)
     if(button_id !=='reset-button'){
+      $(this).addClass("selected-button-class")
       $('.second-button').prop("disabled", false);
       $('.second-button').css("opacity", 1);
-      $('.second-button:hover').css("cursor", "pointer"); //NOT WORKING
+      $('.second-button').addClass("second-button-hoverclass");
       marker_varnames.forEach(function(variable) {
       if(variable.split('_')[1].includes(button_id)) {
         window[variable].addTo(map)} // add markers that contain the button id's line to the map
@@ -108,16 +111,18 @@ $.getJSON('./data/subwaystations.json', function(SubwayStations) {
     if(button_id==='reset-button'){
       marker_varnames.forEach(function(variable) {window[variable].addTo(map)});
       $('.second-button').prop("disabled", true);
-      $('.second-button').css("opacity", 0.6)
+      $('.second-button').css("opacity", 0.6);
+      $('.second-button').removeClass("second-button-hoverclass");
     }
 
     $('.second-button').click(function() {
-      console.log(button_id)
-
+      $('.second-button').removeClass("selected-button-class")
       var button_id_2 = $(this).attr('id')
-      console.log(button_id_2)
+      $(this).addClass("selected-button-class")
       marker_varnames.forEach(function(variable) {
-      if(variable.split('_')[1].includes(button_id) && variable.split('_')[1].includes(button_id_2)) {
+        //neaten this
+      if((variable.split('_')[2].includes(button_id) && variable.split('_')[2].includes(button_id_2)) &&
+      ((variable.split('_')[1].includes(button_id)) || (variable.split('_')[1].includes(button_id_2)))) {
         window[variable].addTo(map)}
         else{window[variable].remove()}
       })
@@ -126,6 +131,11 @@ $.getJSON('./data/subwaystations.json', function(SubwayStations) {
 
   })
 
-// May need to hard code in logic for stations like times sq, union sq, grand central, columbus circle, atl ave, 149 st grand concourse, court sq, check for others
-/////// TO DO: to hardcode logic: change the line_varname; this way the color will still be based on the color column in the data.or make line_varname_2 with ALL lines at that station and use as butt id 2
-// EXTRA TO DO'S: keeping highlight on button that was selected
+// TO DO:
+// hard code logic for other stations like times sq- examples incl union sq, grand central, columbus circle, atl ave, court sq, check for others
+// potentials: 149 st grand concourse, 168th st in wash heights, delancey st/essex st, canal st, fulton st, rector st, borough hall, jay st metrotech,
+// --> edit all_lines_varname for the above stations
+// style: improve reset button; put 'show me' on a line above the other 2 in slightly bigger font
+// code style: neaten according to that article; add comments
+// add black marker as representing stations with multiple line colors somewhere
+// change editing for nqrw buttons (black font)? can make an if statement in the button creation section, but maybe unnecessary
