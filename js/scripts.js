@@ -132,10 +132,10 @@ $.getJSON('./data/subwaystations.json', function(SubwayStations) {
   })
 
 // TO DO:
-// hard code logic for other stations like times sq- examples incl union sq, grand central, columbus circle, atl ave, court sq, check for others
-// potentials: 149 st grand concourse, 168th st in wash heights, delancey st/essex st, canal st, fulton st, rector st, borough hall, jay st metrotech,
-// --> edit all_lines_varname for the above stations
-// style: improve reset button; put 'show me' on a line above the other 2 in slightly bigger font
-// code style: neaten according to that article; add comments
+// --> edit all_lines_varname for the above stations; sort markers in descending longitude maybe
+// style: improve reset button; put 'show me' on a line above the other 2 in slightly bigger font; see if can style popups
 // add black marker as representing stations with multiple line colors somewhere
+// add in text: data created using *link*, not conclusive(?), pls check mta.info(?)/googlemaps for updated/real-time info. wiki pg for complexes
+// disable scroll zoom and add zoom bar (?)
+// code style: neaten according to that article; add comments; download linter-jshint
 // change editing for nqrw buttons (black font)? can make an if statement in the button creation section, but maybe unnecessary
