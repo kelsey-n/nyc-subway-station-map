@@ -102,7 +102,7 @@ p {
   outline: none; /* removes default button highlighting on click */
 }
 
-#reset-button {
+#XX { /* reset button */
   font-family: monospace;
   font-size: 18px;
   font-weight: 100;
@@ -159,7 +159,7 @@ p {
   border-color: black;
 }
 
-#reset-button:hover {
+#XX:hover { /* reset button */
   cursor: pointer;
   background-color: lightblue;
   color: black;

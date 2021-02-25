@@ -41,10 +41,10 @@ $.each(colordict, function(colorkey) {
       // for each subway line: create a button, color it according to colordict then add it to each .station-buttons class
       // we will also add an id so that each button can be identified upon clicking and we can then filter the markers
       $('.first-station-buttons').append(`
-        <button type="button" style="background-color:${colordict[colorkey][0]}" class = 'first-button' id='${subwayline}'>${subwayline}</button>
+        <button type="button" style="background-color:${colordict[colorkey][0]}" class = 'first-button' id='${subwayline}1'>${subwayline}</button>
         `);
       $('.second-station-buttons').append(`
-        <button type="button" style="background-color:${colordict[colorkey][0]}" class = 'second-button' id='${subwayline}' disabled>${subwayline}</button>
+        <button type="button" style="background-color:${colordict[colorkey][0]}" class = 'second-button' id='${subwayline}2' disabled>${subwayline}</button>
         `);
     });
     $('.first-station-buttons').append('<br/>');
@@ -90,10 +90,10 @@ $.getJSON('./data/subwaystations.json', function(SubwayStations) {
   $('.first-button').click(function() {
     $('.first-button').removeClass("selected-button-class");
     $('.second-button').removeClass("selected-button-class"); //remove style of any previously selected buttons when a first station button is clicked
-    var button_id = $(this).attr('id'); //button id = subway line to 'filter' on
+    var button_id = $(this).attr('id')[0]; //button id = subway line to 'filter' on; remove '1' from end of first station button id
 
     // search for the marker variable names that contain the button id subway line
-    if (button_id !=='reset-button') {
+    if (button_id !=='X') { //ignoring reset button
       $(this).addClass("selected-button-class"); //add styling for a selected button
       $('.second-button').prop("disabled", false); //enable second station buttons so user has option to click on them
       $('.second-button').css("opacity", 1);
@@ -109,7 +109,7 @@ $.getJSON('./data/subwaystations.json', function(SubwayStations) {
     }
 
     // if the reset button is clicked, add back all markers to the map, remove styling for previous button selections and disable second station buttons again
-    if (button_id==='reset-button') {
+    if (button_id==='X') {
       marker_varnames.forEach(function(variable) {
         window[variable].addTo(map);
       });
@@ -122,10 +122,9 @@ $.getJSON('./data/subwaystations.json', function(SubwayStations) {
     $('.second-button').click(function() {
       $('.second-button').removeClass("selected-button-class");
       $(this).addClass("selected-button-class");
-      var button_id_2 = $(this).attr('id'); //button id 2 = transfer station
+      var button_id_2 = $(this).attr('id')[0]; //button id 2 = transfer station; remove '2' from end of second station button id
       // now add variables where: (first station AND transfer station in all_lines_varname) AND (first station OR transfer station in lines_varname)
       marker_varnames.forEach(function(variable) {
-        //neaten this
         if ( (variable.split('_')[2].includes(button_id) && variable.split('_')[2].includes(button_id_2)) &&
             ((variable.split('_')[1].includes(button_id)) || (variable.split('_')[1].includes(button_id_2))) ) {
           window[variable].addTo(map);
