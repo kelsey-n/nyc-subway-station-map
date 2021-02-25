@@ -4,9 +4,16 @@ mapboxgl.accessToken = 'pk.eyJ1Ijoia25hbmFuIiwiYSI6ImNrbDlsMXNmNjI3MnEyb25yYjNre
 var map = new mapboxgl.Map({
   container: 'mapcontainer', // container ID
   style: 'mapbox://styles/knanan/ckle1rswq26lu17paw71lych7', // style URL
-  center: [-74.0060, 40.7128], // starting position [lng, lat]
-  zoom: 12 // starting zoom
+  center: [-73.984, 40.7128], // starting position [lng, lat]
+  zoom: 11.5 // starting zoom
 });
+
+// disable scroll zoom:
+map.scrollZoom.disable();
+map.addControl(new mapboxgl.NavigationControl({
+  showCompass: false,
+  showZoom: true
+}));
 
 
 // 2. Make a global object of key:value pairs to define
@@ -27,13 +34,6 @@ var colordict = {
 }
 
 // 3. Create a legend that will also act as a filter - create buttons for each subway line, colored according to colordict
-
-//TESTING CODE for hover/focus/active logic to highlight button selection to user:
-// document.addEventListener('click', event => {
-//   if (event.target.matches('button')) {
-//     event.target.focus()
-//   }
-// })
 
 // first iterate over each key:value pair in the colordict object:
 $.each(colordict, function(colorkey) {
@@ -63,12 +63,12 @@ var marker_varnames = []
 $.getJSON('./data/subwaystations.json', function(SubwayStations) {
 
   SubwayStations.forEach(function(SubwayStation) {
-    // set the content for the popup for each subway station:
+    // set and style the content for the popup for each subway station:
     var html_popup = `
       <div>
-        <h3>${SubwayStation.station_name}</h3>
-        <div>${SubwayStation.line}</div>
-        <div>"${SubwayStation.notes}"</div>
+        <div style = "font-family:sans-serif; font-size:14px; font-weight:bold">${SubwayStation.station_name}</div>
+        <div style = "font-family:sans-serif; font-size:12px; font-weight:600">${SubwayStation.line}</div>
+        <div style = "font-family:sans-serif; font-size:11px; margin-top: 10px">${SubwayStation.notes}</div>
       </div>
     `
     // create the marker for each station; set the color to the appropriate hex color according to the color dictionary object
@@ -132,10 +132,4 @@ $.getJSON('./data/subwaystations.json', function(SubwayStations) {
   })
 
 // TO DO:
-// --> edit all_lines_varname for the above stations; sort markers in descending longitude maybe
-// style: improve reset button; put 'show me' on a line above the other 2 in slightly bigger font; see if can style popups
-// add black marker as representing stations with multiple line colors somewhere
-// add in text: data created using *link*, not conclusive(?), pls check mta.info(?)/googlemaps for updated/real-time info. wiki pg for complexes
-// disable scroll zoom and add zoom bar (?)
 // code style: neaten according to that article; add comments; download linter-jshint
-// change editing for nqrw buttons (black font)? can make an if statement in the button creation section, but maybe unnecessary

@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Mapbox GL Subway Stations</title>
+  <title>NYC Subway Stations</title>
 
   <link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
   <link rel="stylesheet" href="css/styles.css">
@@ -16,14 +16,14 @@
 
   <div id='filter'>
     <h2>NYC Subway Stations</h2>
-    <p id='subheader'>Show me</p>
+    <p id='subheader'>Show me:</p>
 
     <div id='first-station'>
-      <p>Show me all<br/>stations on the</p>
+      <p>all stations<br/>on the</p>
       <div class='first-station-buttons'>
       </div>
       <br>
-      <button type="button" class='first-button' id='reset-button'>Reset</button>
+      <button type="button" class='first-button' id='reset-button'>reset</button>
     </div>
 
     <div id='second-station'>
@@ -33,10 +33,20 @@
     </div>
     <br/>
 
-    <!-- <div id='reset-div'>
-      <button type="button" id='reset-button'>Reset</button>
-    </div> -->
+    <!-- create a disabled button to act as the legend key for stations with many line colors -->
+    <button type="button" id='black-key' disabled>&#9679</button>
+    <p class='inline-text'>stations with<br/>>1 line colors</p>
+  </div>
 
+  <div  id='credits-disclaimer-div'>
+    <p class='inline-text'>
+      This map was created using
+      <a target="_blank" rel="noopener noreferrer" href="https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49">Subway Stations</a>
+      from NYC OpenData and
+      <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/List_of_New_York_City_Subway_transfer_stations">Transfer Stations</a>
+      from Wikipedia.<br/>
+      It may contain outdated information. For up-to-date subway information please check
+      <a target="_blank" rel="noopener noreferrer" href="https://new.mta.info">mta.info</a>.</p>
   </div>
 
   <script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
