@@ -6,7 +6,7 @@
 }
 
 #filter {
-  top: 10px;
+  top: 60px;
   left: 10px;
   position: fixed;
   z-index: 1; /* places filter on top of map container */
@@ -24,12 +24,45 @@
   border-radius: 30px;
 }
 
+/* similar to filter, make a heading for the map with partly transparent background */
+h2 {
+  top: 0px; /* place heading on top edge of map container */
+  left: 50%; /* place left corner of heading at center width of map container */
+  position: fixed;
+  margin: 0;
+  margin-left: -138.6px; /* add a negative left margin half the width of the heading to place center of heading at center width of map container */
+  z-index: 1; /* places heading on top of map container */
+}
+
+h2::before {
+  content: "";
+  background-color: white;
+  opacity: 0.95;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  border-radius: 10px;
+}
+
+#header {
+  font-family: monospace;
+  font-size: 25px;
+  font-weight: bolder;
+  color: black;
+  text-align: center;
+  margin: 8px;
+  margin-top: 8px;
+  z-index: 1;
+}
+
 #first-station {
   float: left;
   position: relative;
   font-family: sans-serif;
   width: auto;
-  margin-right: 30px;
+  margin-right: 15px;
   margin-left: 10px;
 }
 
@@ -39,34 +72,22 @@
   position: relative;
   font-family: sans-serif;
   width: auto;
-  margin-left: 30px;
+  margin-left: 15px;
   margin-right: 10px;
-}
-
-h2 {
-  font-family: monospace;
-  font-size: 27px;
-  font-weight: bolder;
-  color: black;
-  text-align: center;
-  margin-bottom: 0px;
-  margin-top: 10px;
-  position: relative; /* to ensure this shows up on top of the filter */
 }
 
 p {
   font-family: monospace;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
   color: black;
   position: relative; /* to ensure this shows up on top of the filter */
 }
 
-#subheader {
-  font-size: 20px;
-  margin-left: 10px;
-  margin-bottom: 0px;
-  margin-top: 30px;
+.filter-instructions {
+  font-size: 16px;
+  text-align: center;
+  margin: 10px;
   position: relative; /* to ensure this shows up on top of the filter */
 }
 
@@ -120,7 +141,7 @@ p {
   position: relative;
   float: left;
   margin-top: 19px;
-  margin-left: 25px;
+  margin-left: 15px;
 }
 
 .inline-text {

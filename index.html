@@ -12,14 +12,20 @@
 </head>
 
 <body>
+  <h2>
+    <p id='header'>NYC Subway Stations</p>
+  </h2>
+
   <div id='mapcontainer'> </div>
 
+
   <div id='filter'>
-    <h2>NYC Subway Stations</h2>
-    <p id='subheader'>Show me:</p>
+    <p class='filter-instructions'>Select subway lines below to<br>
+      filter stations on the map.<br>
+    </p>
 
     <div id='first-station'>
-      <p>all stations<br/>on the</p>
+      <p>Show all stations<br/>on the:</p>
       <div class='first-station-buttons'>
       </div>
       <br>
@@ -36,6 +42,10 @@
     <!-- create a disabled button to act as the legend key for stations with many line colors -->
     <button disabled type="button" id='black-key'>&#9679</button>
     <p class='inline-text'>stations with<br/>2+ line colors</p>
+
+    <p class='filter-instructions'>Click stations on the map<br>
+      for station-specific info.
+    </p>
   </div>
 
   <div  id='credits-disclaimer-div'>
